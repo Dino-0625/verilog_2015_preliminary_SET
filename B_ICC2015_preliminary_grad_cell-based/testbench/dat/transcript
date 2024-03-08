@@ -1,0 +1,2712 @@
+# Compile of SET.v was successful.
+# Compile of testfixture.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.testfixture1
+# vsim -gui work.testfixture1 
+# Start time: 21:19:57 on Jan 21,2024
+# Loading work.testfixture1
+# Loading work.SET
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpfile' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpvars' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+add wave -position insertpoint sim:/testfixture1/*
+add wave -position insertpoint sim:/testfixture1/u_set/*
+add wave -position 12  sim:/testfixture1/u_set/map
+run -all
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpfile'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpvars'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+# ============================================================================
+# |                                                                          |
+# |  Please select one testbench for test !!                                 |
+# |  Simulation can't be initialized !!                                      |
+# |                                                                          |
+# ============================================================================
+# ** Note: $finish    : C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v(64)
+#    Time: 1 ns  Iteration: 0  Instance: /testfixture1
+# 1
+# Break in Module testfixture1 at C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v line 64
+# Compile of SET.v was successful.
+# Compile of testfixture.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.testfixture1
+# End time: 21:21:36 on Jan 21,2024, Elapsed time: 0:01:39
+# Errors: 2, Warnings: 8
+# vsim -gui work.testfixture1 
+# Start time: 21:21:36 on Jan 21,2024
+# Loading work.testfixture1
+# Loading work.SET
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpfile' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpvars' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+add wave -position insertpoint sim:/testfixture1/*
+add wave -position insertpoint sim:/testfixture1/u_set/*
+add wave -position 12  sim:/testfixture1/u_set/map
+run -all
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpfile'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpvars'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+# --------------------------- [ Function 1. Simulation START !! ] ---------------------------
+# ================================================================================================================
+# --------------------------- (/`n`)/ ~#  There was something wrong with your code !! ---------------------------
+# --------------------------- The simulation can't finished!!, Please check it !!! ---------------------------
+# ================================================================================================================
+# ** Note: $finish    : C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v(150)
+#    Time: 200 us  Iteration: 0  Instance: /testfixture1
+# 1
+# Break in Module testfixture1 at C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v line 150
+# Compile of SET.v failed with 1 errors.
+# Compile of testfixture.v was successful.
+# 2 compiles, 1 failed with 1 error.
+# Compile of SET.v was successful.
+# Compile of testfixture.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.testfixture1
+# End time: 21:28:41 on Jan 21,2024, Elapsed time: 0:07:05
+# Errors: 2, Warnings: 5
+# vsim -gui work.testfixture1 
+# Start time: 21:28:41 on Jan 21,2024
+# Loading work.testfixture1
+# Loading work.SET
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpfile' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpvars' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+add wave -position insertpoint sim:/testfixture1/*
+add wave -position insertpoint sim:/testfixture1/u_set/*
+add wave -position 12  sim:/testfixture1/u_set/map
+run -all
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpfile'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpvars'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+# --------------------------- [ Function 1. Simulation START !! ] ---------------------------
+# ================================================================================================================
+# --------------------------- (/`n`)/ ~#  There was something wrong with your code !! ---------------------------
+# --------------------------- The simulation can't finished!!, Please check it !!! ---------------------------
+# ================================================================================================================
+# ** Note: $finish    : C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v(150)
+#    Time: 200 us  Iteration: 0  Instance: /testfixture1
+# 1
+# Break in Module testfixture1 at C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v line 150
+# Compile of SET.v was successful.
+# Compile of testfixture.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Load canceled
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.testfixture1
+# Loading work.SET
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpfile' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpvars' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+run -all
+# GetModuleFileName: тぃ﹚家舱
+# 
+# 
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpfile'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpvars'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+# --------------------------- [ Function 1. Simulation START !! ] ---------------------------
+# ================================================================================================================
+# --------------------------- (/`n`)/ ~#  There was something wrong with your code !! ---------------------------
+# --------------------------- The simulation can't finished!!, Please check it !!! ---------------------------
+# ================================================================================================================
+# ** Note: $finish    : C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v(150)
+#    Time: 200 us  Iteration: 0  Instance: /testfixture1
+# 1
+# Break in Module testfixture1 at C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v line 150
+# Compile of SET.v was successful.
+# Compile of testfixture.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.testfixture1
+# End time: 21:34:06 on Jan 21,2024, Elapsed time: 0:05:25
+# Errors: 2, Warnings: 4
+# vsim -gui work.testfixture1 
+# Start time: 21:34:06 on Jan 21,2024
+# Loading work.testfixture1
+# Loading work.SET
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpfile' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpvars' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+add wave -position insertpoint sim:/testfixture1/*
+add wave -position insertpoint sim:/testfixture1/u_set/*
+add wave -position 12  sim:/testfixture1/u_set/map
+run -all
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpfile'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpvars'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+# --------------------------- [ Function 1. Simulation START !! ] ---------------------------
+#  Pattern           0 at Mode 0 is FAIL !. Expected candidate =  29, but the Response candidate =   x !! 
+#  Pattern           1 at Mode 0 is FAIL !. Expected candidate =  13, but the Response candidate =   X !! 
+#  Pattern           2 at Mode 0 is FAIL !. Expected candidate =  12, but the Response candidate =   X !! 
+#  Pattern           3 at Mode 0 is FAIL !. Expected candidate =  27, but the Response candidate =   X !! 
+#  Pattern           4 at Mode 0 is FAIL !. Expected candidate =   1, but the Response candidate =   X !! 
+#  Pattern           5 at Mode 0 is FAIL !. Expected candidate =  12, but the Response candidate =   X !! 
+#  Pattern           6 at Mode 0 is FAIL !. Expected candidate =  20, but the Response candidate =   X !! 
+#  Pattern           7 at Mode 0 is FAIL !. Expected candidate =  15, but the Response candidate =   X !! 
+#  Pattern           8 at Mode 0 is FAIL !. Expected candidate =  12, but the Response candidate =   X !! 
+#  Pattern           9 at Mode 0 is FAIL !. Expected candidate =   9, but the Response candidate =   X !! 
+# ============================================================================
+# 
+#  (>_<) FAIL!! The simulation FAIL result is too many ! Please check your code @@ 
+# 
+# ============================================================================
+# ** Note: $finish    : C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v(140)
+#    Time: 27860 ns  Iteration: 2  Instance: /testfixture1
+# 1
+# Break in Module testfixture1 at C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v line 140
+# Compile of SET.v was successful.
+# Compile of testfixture.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.testfixture1
+# End time: 21:38:29 on Jan 21,2024, Elapsed time: 0:04:23
+# Errors: 2, Warnings: 4
+# vsim -gui work.testfixture1 
+# Start time: 21:38:29 on Jan 21,2024
+# Loading work.testfixture1
+# Loading work.SET
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpfile' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpvars' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+add wave -position insertpoint sim:/testfixture1/*
+add wave -position insertpoint sim:/testfixture1/u_set/*
+add wave -position 12  sim:/testfixture1/u_set/map
+run -all
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpfile'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpvars'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+# --------------------------- [ Function 1. Simulation START !! ] ---------------------------
+#  Pattern           0 at Mode 0 is FAIL !. Expected candidate =  29, but the Response candidate =   x !! 
+#  Pattern           1 at Mode 0 is FAIL !. Expected candidate =  13, but the Response candidate =   X !! 
+#  Pattern           2 at Mode 0 is FAIL !. Expected candidate =  12, but the Response candidate =   X !! 
+#  Pattern           3 at Mode 0 is FAIL !. Expected candidate =  27, but the Response candidate =   X !! 
+#  Pattern           4 at Mode 0 is FAIL !. Expected candidate =   1, but the Response candidate =   X !! 
+#  Pattern           5 at Mode 0 is FAIL !. Expected candidate =  12, but the Response candidate =   X !! 
+#  Pattern           6 at Mode 0 is FAIL !. Expected candidate =  20, but the Response candidate =   X !! 
+#  Pattern           7 at Mode 0 is FAIL !. Expected candidate =  15, but the Response candidate =   X !! 
+#  Pattern           8 at Mode 0 is FAIL !. Expected candidate =  12, but the Response candidate =   X !! 
+#  Pattern           9 at Mode 0 is FAIL !. Expected candidate =   9, but the Response candidate =   X !! 
+# ============================================================================
+# 
+#  (>_<) FAIL!! The simulation FAIL result is too many ! Please check your code @@ 
+# 
+# ============================================================================
+# ** Note: $finish    : C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v(140)
+#    Time: 27860 ns  Iteration: 2  Instance: /testfixture1
+# 1
+# Break in Module testfixture1 at C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v line 140
+# Compile of SET.v was successful.
+# Compile of testfixture.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.testfixture1
+# End time: 21:46:57 on Jan 21,2024, Elapsed time: 0:08:28
+# Errors: 2, Warnings: 4
+# vsim -gui work.testfixture1 
+# Start time: 21:46:57 on Jan 21,2024
+# Loading work.testfixture1
+# Loading work.SET
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpfile' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpvars' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+add wave -position insertpoint sim:/testfixture1/*
+add wave -position insertpoint sim:/testfixture1/u_set/*
+add wave -position 12  sim:/testfixture1/u_set/map
+run -all
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpfile'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpvars'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+# --------------------------- [ Function 1. Simulation START !! ] ---------------------------
+#  Pattern           0 at Mode 0 is FAIL !. Expected candidate =  29, but the Response candidate =   x !! 
+#  Pattern           1 at Mode 0 is FAIL !. Expected candidate =  13, but the Response candidate =   0 !! 
+#  Pattern           2 at Mode 0 is FAIL !. Expected candidate =  12, but the Response candidate =   0 !! 
+#  Pattern           3 at Mode 0 is FAIL !. Expected candidate =  27, but the Response candidate =   0 !! 
+#  Pattern           4 at Mode 0 is FAIL !. Expected candidate =   1, but the Response candidate =   0 !! 
+#  Pattern           5 at Mode 0 is FAIL !. Expected candidate =  12, but the Response candidate =   0 !! 
+#  Pattern           6 at Mode 0 is FAIL !. Expected candidate =  20, but the Response candidate =   0 !! 
+#  Pattern           7 at Mode 0 is FAIL !. Expected candidate =  15, but the Response candidate =   0 !! 
+#  Pattern           8 at Mode 0 is FAIL !. Expected candidate =  12, but the Response candidate =   0 !! 
+#  Pattern           9 at Mode 0 is FAIL !. Expected candidate =   9, but the Response candidate =   0 !! 
+# ============================================================================
+# 
+#  (>_<) FAIL!! The simulation FAIL result is too many ! Please check your code @@ 
+# 
+# ============================================================================
+# ** Note: $finish    : C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v(140)
+#    Time: 27860 ns  Iteration: 2  Instance: /testfixture1
+# 1
+# Break in Module testfixture1 at C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v line 140
+# Compile of SET.v was successful.
+# Compile of testfixture.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.testfixture1
+# End time: 21:53:56 on Jan 21,2024, Elapsed time: 0:06:59
+# Errors: 2, Warnings: 4
+# vsim -gui work.testfixture1 
+# Start time: 21:53:57 on Jan 21,2024
+# Loading work.testfixture1
+# Loading work.SET
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpfile' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpvars' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+add wave -position insertpoint sim:/testfixture1/*
+add wave -position insertpoint sim:/testfixture1/u_set/*
+add wave -position 12  sim:/testfixture1/u_set/map
+run -all
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpfile'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpvars'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+# --------------------------- [ Function 1. Simulation START !! ] ---------------------------
+#  Pattern           0 at Mode 0 is FAIL !. Expected candidate =  29, but the Response candidate =   x !! 
+#  Pattern           1 at Mode 0 is FAIL !. Expected candidate =  13, but the Response candidate =  14 !! 
+#  Pattern           2 at Mode 0 is FAIL !. Expected candidate =  12, but the Response candidate =  28 !! 
+#  Pattern           3 at Mode 0 is FAIL !. Expected candidate =  27, but the Response candidate =  44 !! 
+#  Pattern           4 at Mode 0 is FAIL !. Expected candidate =   1, but the Response candidate =  60 !! 
+#  Pattern           5 at Mode 0 is FAIL !. Expected candidate =  12, but the Response candidate =  10 !! 
+#  Pattern           6 at Mode 0 is FAIL !. Expected candidate =  20, but the Response candidate =  24 !! 
+#  Pattern           7 at Mode 0 is FAIL !. Expected candidate =  15, but the Response candidate =  42 !! 
+#  Pattern           8 at Mode 0 is FAIL !. Expected candidate =  12, but the Response candidate =  56 !! 
+#  Pattern           9 at Mode 0 is FAIL !. Expected candidate =   9, but the Response candidate =   8 !! 
+# ============================================================================
+# 
+#  (>_<) FAIL!! The simulation FAIL result is too many ! Please check your code @@ 
+# 
+# ============================================================================
+# ** Note: $finish    : C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v(140)
+#    Time: 50900 ns  Iteration: 2  Instance: /testfixture1
+# 1
+# Break in Module testfixture1 at C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v line 140
+# Compile of SET.v was successful.
+# Compile of testfixture.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.testfixture1
+# Loading work.SET
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpfile' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpvars' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+run -all
+# GetModuleFileName: тぃ﹚家舱
+# 
+# 
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpfile'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpvars'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+# --------------------------- [ Function 1. Simulation START !! ] ---------------------------
+#  Pattern           0 at Mode 0 is FAIL !. Expected candidate =  29, but the Response candidate =   x !! 
+#  Pattern           1 at Mode 0 is FAIL !. Expected candidate =  13, but the Response candidate =  30 !! 
+#  Pattern           2 at Mode 0 is FAIL !. Expected candidate =  12, but the Response candidate =  52 !! 
+#  Pattern           3 at Mode 0 is FAIL !. Expected candidate =  27, but the Response candidate =  10 !! 
+#  Pattern           4 at Mode 0 is FAIL !. Expected candidate =   1, but the Response candidate =  42 !! 
+#  Pattern           5 at Mode 0 is FAIL !. Expected candidate =  12, but the Response candidate =   0 !! 
+#  Pattern           6 at Mode 0 is FAIL !. Expected candidate =  20, but the Response candidate =  22 !! 
+#  Pattern           7 at Mode 0 is FAIL !. Expected candidate =  15, but the Response candidate =  54 !! 
+#  Pattern           8 at Mode 0 is FAIL !. Expected candidate =  12, but the Response candidate =   6 !! 
+#  Pattern           9 at Mode 0 is FAIL !. Expected candidate =   9, but the Response candidate =  28 !! 
+# ============================================================================
+# 
+#  (>_<) FAIL!! The simulation FAIL result is too many ! Please check your code @@ 
+# 
+# ============================================================================
+# ** Note: $finish    : C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v(140)
+#    Time: 50900 ns  Iteration: 2  Instance: /testfixture1
+# 1
+# Break in Module testfixture1 at C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v line 140
+# Compile of SET.v was successful.
+# Compile of testfixture.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of SET.v was successful.
+# Compile of testfixture.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.testfixture1
+# End time: 22:03:14 on Jan 21,2024, Elapsed time: 0:09:17
+# Errors: 2, Warnings: 5
+# vsim -gui work.testfixture1 
+# Start time: 22:03:14 on Jan 21,2024
+# Loading work.testfixture1
+# Loading work.SET
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpfile' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpvars' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+add wave -position insertpoint sim:/testfixture1/*
+add wave -position insertpoint sim:/testfixture1/u_set/*
+add wave -position 12  sim:/testfixture1/u_set/map
+run -all
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpfile'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpvars'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+# --------------------------- [ Function 1. Simulation START !! ] ---------------------------
+#  Pattern           0 at Mode 0 is FAIL !. Expected candidate =  29, but the Response candidate =   x !! 
+#  Pattern           1 at Mode 0 is FAIL !. Expected candidate =  13, but the Response candidate =  22 !! 
+#  Pattern           2 at Mode 0 is FAIL !. Expected candidate =  12, but the Response candidate =  34 !! 
+#  Pattern           3 at Mode 0 is FAIL !. Expected candidate =  27, but the Response candidate =  46 !! 
+#  Pattern           4 at Mode 0 is FAIL !. Expected candidate =   1, but the Response candidate =   4 !! 
+#  Pattern           5 at Mode 0 is FAIL !. Expected candidate =  12, but the Response candidate =  16 !! 
+#  Pattern           6 at Mode 0 is FAIL !. Expected candidate =  20, but the Response candidate =  28 !! 
+#  Pattern           7 at Mode 0 is FAIL !. Expected candidate =  15, but the Response candidate =  50 !! 
+#  Pattern           8 at Mode 0 is FAIL !. Expected candidate =  12, but the Response candidate =  52 !! 
+#  Pattern           9 at Mode 0 is FAIL !. Expected candidate =   9, but the Response candidate =   0 !! 
+# ============================================================================
+# 
+#  (>_<) FAIL!! The simulation FAIL result is too many ! Please check your code @@ 
+# 
+# ============================================================================
+# ** Note: $finish    : C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v(140)
+#    Time: 50900 ns  Iteration: 2  Instance: /testfixture1
+# 1
+# Break in Module testfixture1 at C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v line 140
+# Compile of SET.v was successful.
+# Compile of testfixture.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.testfixture1
+# Loading work.SET
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpfile' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpvars' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+run -all
+# GetModuleFileName: тぃ﹚家舱
+# 
+# 
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpfile'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpvars'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+# --------------------------- [ Function 1. Simulation START !! ] ---------------------------
+#  Pattern           0 at Mode 0 is FAIL !. Expected candidate =  29, but the Response candidate =   x !! 
+#  Pattern           1 at Mode 0 is FAIL !. Expected candidate =  13, but the Response candidate =  22 !! 
+#  Pattern           2 at Mode 0 is FAIL !. Expected candidate =  12, but the Response candidate =  34 !! 
+#  Pattern           3 at Mode 0 is FAIL !. Expected candidate =  27, but the Response candidate =  46 !! 
+#  Pattern           4 at Mode 0 is FAIL !. Expected candidate =   1, but the Response candidate =   4 !! 
+#  Pattern           5 at Mode 0 is FAIL !. Expected candidate =  12, but the Response candidate =  16 !! 
+#  Pattern           6 at Mode 0 is FAIL !. Expected candidate =  20, but the Response candidate =  28 !! 
+#  Pattern           7 at Mode 0 is FAIL !. Expected candidate =  15, but the Response candidate =  50 !! 
+#  Pattern           8 at Mode 0 is FAIL !. Expected candidate =  12, but the Response candidate =  52 !! 
+#  Pattern           9 at Mode 0 is FAIL !. Expected candidate =   9, but the Response candidate =   0 !! 
+# ============================================================================
+# 
+#  (>_<) FAIL!! The simulation FAIL result is too many ! Please check your code @@ 
+# 
+# ============================================================================
+# ** Note: $finish    : C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v(140)
+#    Time: 50900 ns  Iteration: 2  Instance: /testfixture1
+# 1
+# Break in Module testfixture1 at C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v line 140
+# Compile of SET.v was successful.
+# Compile of testfixture.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.testfixture1
+# End time: 22:12:56 on Jan 21,2024, Elapsed time: 0:09:42
+# Errors: 2, Warnings: 4
+# vsim -gui work.testfixture1 
+# Start time: 22:12:56 on Jan 21,2024
+# Loading work.testfixture1
+# Loading work.SET
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpfile' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpvars' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+add wave -position insertpoint sim:/testfixture1/*
+add wave -position insertpoint sim:/testfixture1/u_set/*
+add wave -position 12  sim:/testfixture1/u_set/map
+run -all
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpfile'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpvars'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+# --------------------------- [ Function 1. Simulation START !! ] ---------------------------
+#  Pattern           0 at Mode 0 is FAIL !. Expected candidate =  29, but the Response candidate =   x !! 
+#  Pattern           1 at Mode 0 is FAIL !. Expected candidate =  13, but the Response candidate =  58 !! 
+#  Pattern           2 at Mode 0 is FAIL !. Expected candidate =  12, but the Response candidate =  20 !! 
+#  Pattern           3 at Mode 0 is FAIL !. Expected candidate =  27, but the Response candidate =  44 !! 
+#  Pattern           4 at Mode 0 is FAIL !. Expected candidate =   1, but the Response candidate =  34 !! 
+#  Pattern           5 at Mode 0 is FAIL !. Expected candidate =  12, but the Response candidate =  42 !! 
+#  Pattern           6 at Mode 0 is FAIL !. Expected candidate =  20, but the Response candidate =   2 !! 
+#  Pattern           7 at Mode 0 is FAIL !. Expected candidate =  15, but the Response candidate =  12 !! 
+#  Pattern           8 at Mode 0 is PASS !
+#  Pattern           9 at Mode 0 is FAIL !. Expected candidate =   9, but the Response candidate =  36 !! 
+#  Pattern          10 at Mode 0 is FAIL !. Expected candidate =  12, but the Response candidate =  54 !! 
+# ============================================================================
+# 
+#  (>_<) FAIL!! The simulation FAIL result is too many ! Please check your code @@ 
+# 
+# ============================================================================
+# ** Note: $finish    : C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v(140)
+#    Time: 56050 ns  Iteration: 2  Instance: /testfixture1
+# 1
+# Break in Module testfixture1 at C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v line 140
+# Compile of SET.v was successful.
+# Compile of testfixture.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.testfixture1
+# Loading work.SET
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpfile' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpvars' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+run -all
+# GetModuleFileName: тぃ﹚家舱
+# 
+# 
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpfile'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpvars'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+# --------------------------- [ Function 1. Simulation START !! ] ---------------------------
+#  Pattern           0 at Mode 0 is FAIL !. Expected candidate =  29, but the Response candidate =   x !! 
+#  Pattern           1 at Mode 0 is FAIL !. Expected candidate =  13, but the Response candidate =  29 !! 
+#  Pattern           2 at Mode 0 is FAIL !. Expected candidate =  12, but the Response candidate =  42 !! 
+#  Pattern           3 at Mode 0 is FAIL !. Expected candidate =  27, but the Response candidate =  54 !! 
+#  Pattern           4 at Mode 0 is FAIL !. Expected candidate =   1, but the Response candidate =  17 !! 
+#  Pattern           5 at Mode 0 is FAIL !. Expected candidate =  12, but the Response candidate =  21 !! 
+#  Pattern           6 at Mode 0 is FAIL !. Expected candidate =  20, but the Response candidate =  33 !! 
+#  Pattern           7 at Mode 0 is FAIL !. Expected candidate =  15, but the Response candidate =  38 !! 
+#  Pattern           8 at Mode 0 is FAIL !. Expected candidate =  12, but the Response candidate =  38 !! 
+#  Pattern           9 at Mode 0 is FAIL !. Expected candidate =   9, but the Response candidate =  50 !! 
+# ============================================================================
+# 
+#  (>_<) FAIL!! The simulation FAIL result is too many ! Please check your code @@ 
+# 
+# ============================================================================
+# ** Note: $finish    : C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v(140)
+#    Time: 31700 ns  Iteration: 2  Instance: /testfixture1
+# 1
+# Break in Module testfixture1 at C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v line 140
+# Compile of SET.v was successful.
+# Compile of testfixture.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.testfixture1
+# Loading work.SET
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpfile' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpvars' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+run -all
+# GetModuleFileName: тぃ﹚家舱
+# 
+# 
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpfile'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpvars'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+# --------------------------- [ Function 1. Simulation START !! ] ---------------------------
+# ================================================================================================================
+# --------------------------- (/`n`)/ ~#  There was something wrong with your code !! ---------------------------
+# --------------------------- The simulation can't finished!!, Please check it !!! ---------------------------
+# ================================================================================================================
+# ** Note: $finish    : C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v(150)
+#    Time: 200 us  Iteration: 0  Instance: /testfixture1
+# 1
+# Break in Module testfixture1 at C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v line 150
+# Compile of SET.v was successful.
+# Compile of testfixture.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.testfixture1
+# Loading work.SET
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpfile' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpvars' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+run -all
+# GetModuleFileName: тぃ﹚家舱
+# 
+# 
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpfile'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpvars'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+# --------------------------- [ Function 1. Simulation START !! ] ---------------------------
+#  Pattern           0 at Mode 0 is PASS !
+#  Pattern           1 at Mode 0 is PASS !
+#  Pattern           2 at Mode 0 is PASS !
+#  Pattern           3 at Mode 0 is PASS !
+#  Pattern           4 at Mode 0 is FAIL !. Expected candidate =   1, but the Response candidate =   4 !! 
+#  Pattern           5 at Mode 0 is PASS !
+#  Pattern           6 at Mode 0 is FAIL !. Expected candidate =  20, but the Response candidate =   5 !! 
+#  Pattern           7 at Mode 0 is FAIL !. Expected candidate =  15, but the Response candidate =   0 !! 
+#  Pattern           8 at Mode 0 is PASS !
+#  Pattern           9 at Mode 0 is PASS !
+#  Pattern          10 at Mode 0 is PASS !
+#  Pattern          11 at Mode 0 is FAIL !. Expected candidate =   1, but the Response candidate =   4 !! 
+#  Pattern          12 at Mode 0 is FAIL !. Expected candidate =   4, but the Response candidate =   3 !! 
+#  Pattern          13 at Mode 0 is PASS !
+#  Pattern          14 at Mode 0 is PASS !
+#  Pattern          15 at Mode 0 is PASS !
+#  Pattern          16 at Mode 0 is PASS !
+#  Pattern          17 at Mode 0 is PASS !
+#  Pattern          18 at Mode 0 is PASS !
+#  Pattern          19 at Mode 0 is FAIL !. Expected candidate =   4, but the Response candidate =   3 !! 
+#  Pattern          20 at Mode 0 is PASS !
+#  Pattern          21 at Mode 0 is PASS !
+#  Pattern          22 at Mode 0 is FAIL !. Expected candidate =   4, but the Response candidate =   1 !! 
+#  Pattern          23 at Mode 0 is FAIL !. Expected candidate =   4, but the Response candidate =   2 !! 
+#  Pattern          24 at Mode 0 is PASS !
+#  Pattern          25 at Mode 0 is PASS !
+#  Pattern          26 at Mode 0 is PASS !
+#  Pattern          27 at Mode 0 is PASS !
+#  Pattern          28 at Mode 0 is PASS !
+#  Pattern          29 at Mode 0 is PASS !
+#  Pattern          30 at Mode 0 is FAIL !. Expected candidate =   9, but the Response candidate =   8 !! 
+#  Pattern          31 at Mode 0 is FAIL !. Expected candidate =   6, but the Response candidate =   5 !! 
+# ============================================================================
+# 
+#  (>_<) FAIL!! The simulation FAIL result is too many ! Please check your code @@ 
+# 
+# ============================================================================
+# ** Note: $finish    : C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v(140)
+#    Time: 102760 ns  Iteration: 2  Instance: /testfixture1
+# 1
+# Break in Module testfixture1 at C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v line 140
+# Compile of SET.v was successful.
+# Compile of testfixture.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.testfixture1
+# Loading work.SET
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpfile' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpvars' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+run -all
+# GetModuleFileName: тぃ﹚家舱
+# 
+# 
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpfile'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpvars'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+# --------------------------- [ Function 1. Simulation START !! ] ---------------------------
+#  Pattern           0 at Mode 0 is FAIL !. Expected candidate =  29, but the Response candidate =  26 !! 
+#  Pattern           1 at Mode 0 is FAIL !. Expected candidate =  13, but the Response candidate =  12 !! 
+#  Pattern           2 at Mode 0 is FAIL !. Expected candidate =  12, but the Response candidate =   7 !! 
+#  Pattern           3 at Mode 0 is FAIL !. Expected candidate =  27, but the Response candidate =  23 !! 
+#  Pattern           4 at Mode 0 is PASS !
+#  Pattern           5 at Mode 0 is FAIL !. Expected candidate =  12, but the Response candidate =   7 !! 
+#  Pattern           6 at Mode 0 is FAIL !. Expected candidate =  20, but the Response candidate =  14 !! 
+#  Pattern           7 at Mode 0 is FAIL !. Expected candidate =  15, but the Response candidate =   0 !! 
+#  Pattern           8 at Mode 0 is FAIL !. Expected candidate =  12, but the Response candidate =   9 !! 
+#  Pattern           9 at Mode 0 is FAIL !. Expected candidate =   9, but the Response candidate =   4 !! 
+#  Pattern          10 at Mode 0 is FAIL !. Expected candidate =  12, but the Response candidate =   9 !! 
+# ============================================================================
+# 
+#  (>_<) FAIL!! The simulation FAIL result is too many ! Please check your code @@ 
+# 
+# ============================================================================
+# ** Note: $finish    : C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v(140)
+#    Time: 34930 ns  Iteration: 2  Instance: /testfixture1
+# 1
+# Break in Module testfixture1 at C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v line 140
+# Compile of SET.v was successful.
+# Compile of testfixture.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.testfixture1
+# Loading work.SET
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpfile' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpvars' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+run -all
+# GetModuleFileName: тぃ﹚家舱
+# 
+# 
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpfile'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpvars'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+# --------------------------- [ Function 1. Simulation START !! ] ---------------------------
+#  Pattern           0 at Mode 0 is FAIL !. Expected candidate =  29, but the Response candidate =  28 !! 
+#  Pattern           1 at Mode 0 is PASS !
+#  Pattern           2 at Mode 0 is FAIL !. Expected candidate =  12, but the Response candidate =  11 !! 
+#  Pattern           3 at Mode 0 is PASS !
+#  Pattern           4 at Mode 0 is FAIL !. Expected candidate =   1, but the Response candidate =   2 !! 
+#  Pattern           5 at Mode 0 is FAIL !. Expected candidate =  12, but the Response candidate =  11 !! 
+#  Pattern           6 at Mode 0 is FAIL !. Expected candidate =  20, but the Response candidate =   7 !! 
+#  Pattern           7 at Mode 0 is FAIL !. Expected candidate =  15, but the Response candidate =   0 !! 
+#  Pattern           8 at Mode 0 is PASS !
+#  Pattern           9 at Mode 0 is PASS !
+#  Pattern          10 at Mode 0 is PASS !
+#  Pattern          11 at Mode 0 is FAIL !. Expected candidate =   1, but the Response candidate =   2 !! 
+#  Pattern          12 at Mode 0 is FAIL !. Expected candidate =   4, but the Response candidate =   2 !! 
+#  Pattern          13 at Mode 0 is PASS !
+#  Pattern          14 at Mode 0 is PASS !
+#  Pattern          15 at Mode 0 is PASS !
+#  Pattern          16 at Mode 0 is PASS !
+#  Pattern          17 at Mode 0 is PASS !
+#  Pattern          18 at Mode 0 is PASS !
+#  Pattern          19 at Mode 0 is FAIL !. Expected candidate =   4, but the Response candidate =   2 !! 
+#  Pattern          20 at Mode 0 is PASS !
+#  Pattern          21 at Mode 0 is PASS !
+#  Pattern          22 at Mode 0 is PASS !
+#  Pattern          23 at Mode 0 is PASS !
+#  Pattern          24 at Mode 0 is PASS !
+#  Pattern          25 at Mode 0 is PASS !
+#  Pattern          26 at Mode 0 is PASS !
+#  Pattern          27 at Mode 0 is PASS !
+#  Pattern          28 at Mode 0 is PASS !
+#  Pattern          29 at Mode 0 is PASS !
+#  Pattern          30 at Mode 0 is FAIL !. Expected candidate =   9, but the Response candidate =   7 !! 
+# ============================================================================
+# 
+#  (>_<) FAIL!! The simulation FAIL result is too many ! Please check your code @@ 
+# 
+# ============================================================================
+# ** Note: $finish    : C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v(140)
+#    Time: 99530 ns  Iteration: 2  Instance: /testfixture1
+# 1
+# Break in Module testfixture1 at C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v line 140
+# Compile of SET.v was successful.
+# Compile of testfixture.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.testfixture1
+# Loading work.SET
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpfile' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpvars' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+run -all
+# GetModuleFileName: тぃ﹚家舱
+# 
+# 
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpfile'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpvars'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+# --------------------------- [ Function 1. Simulation START !! ] ---------------------------
+#  Pattern           0 at Mode 0 is FAIL !. Expected candidate =  29, but the Response candidate =   x !! 
+#  Pattern           1 at Mode 0 is FAIL !. Expected candidate =  13, but the Response candidate =   x !! 
+#  Pattern           2 at Mode 0 is FAIL !. Expected candidate =  12, but the Response candidate =   x !! 
+#  Pattern           3 at Mode 0 is FAIL !. Expected candidate =  27, but the Response candidate =   x !! 
+#  Pattern           4 at Mode 0 is FAIL !. Expected candidate =   1, but the Response candidate =   x !! 
+#  Pattern           5 at Mode 0 is FAIL !. Expected candidate =  12, but the Response candidate =   x !! 
+#  Pattern           6 at Mode 0 is FAIL !. Expected candidate =  20, but the Response candidate =   x !! 
+#  Pattern           7 at Mode 0 is FAIL !. Expected candidate =  15, but the Response candidate =   x !! 
+#  Pattern           8 at Mode 0 is FAIL !. Expected candidate =  12, but the Response candidate =   x !! 
+#  Pattern           9 at Mode 0 is FAIL !. Expected candidate =   9, but the Response candidate =   x !! 
+# ============================================================================
+# 
+#  (>_<) FAIL!! The simulation FAIL result is too many ! Please check your code @@ 
+# 
+# ============================================================================
+# ** Note: $finish    : C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v(140)
+#    Time: 31700 ns  Iteration: 2  Instance: /testfixture1
+# 1
+# Break in Module testfixture1 at C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v line 140
+# Compile of SET.v was successful.
+# Compile of testfixture.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.testfixture1
+# Loading work.SET
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpfile' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpvars' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+run -all
+# GetModuleFileName: тぃ﹚家舱
+# 
+# 
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpfile'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpvars'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+# --------------------------- [ Function 1. Simulation START !! ] ---------------------------
+#  Pattern           0 at Mode 0 is FAIL !. Expected candidate =  29, but the Response candidate =   x !! 
+#  Pattern           1 at Mode 0 is FAIL !. Expected candidate =  13, but the Response candidate =   x !! 
+#  Pattern           2 at Mode 0 is FAIL !. Expected candidate =  12, but the Response candidate =   x !! 
+#  Pattern           3 at Mode 0 is FAIL !. Expected candidate =  27, but the Response candidate =   x !! 
+#  Pattern           4 at Mode 0 is FAIL !. Expected candidate =   1, but the Response candidate =   x !! 
+#  Pattern           5 at Mode 0 is FAIL !. Expected candidate =  12, but the Response candidate =   x !! 
+#  Pattern           6 at Mode 0 is FAIL !. Expected candidate =  20, but the Response candidate =   x !! 
+#  Pattern           7 at Mode 0 is FAIL !. Expected candidate =  15, but the Response candidate =   x !! 
+#  Pattern           8 at Mode 0 is FAIL !. Expected candidate =  12, but the Response candidate =   x !! 
+#  Pattern           9 at Mode 0 is FAIL !. Expected candidate =   9, but the Response candidate =   x !! 
+# ============================================================================
+# 
+#  (>_<) FAIL!! The simulation FAIL result is too many ! Please check your code @@ 
+# 
+# ============================================================================
+# ** Note: $finish    : C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v(140)
+#    Time: 31700 ns  Iteration: 2  Instance: /testfixture1
+# 1
+# Break in Module testfixture1 at C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v line 140
+# Compile of SET.v was successful.
+# Compile of testfixture.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.testfixture1
+# Loading work.SET
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpfile' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpvars' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+run -all
+# GetModuleFileName: тぃ﹚家舱
+# 
+# 
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpfile'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpvars'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+# --------------------------- [ Function 1. Simulation START !! ] ---------------------------
+#  Pattern           0 at Mode 0 is FAIL !. Expected candidate =  29, but the Response candidate =   x !! 
+#  Pattern           1 at Mode 0 is FAIL !. Expected candidate =  13, but the Response candidate =   x !! 
+#  Pattern           2 at Mode 0 is FAIL !. Expected candidate =  12, but the Response candidate =   x !! 
+#  Pattern           3 at Mode 0 is FAIL !. Expected candidate =  27, but the Response candidate =   x !! 
+#  Pattern           4 at Mode 0 is FAIL !. Expected candidate =   1, but the Response candidate =   x !! 
+#  Pattern           5 at Mode 0 is FAIL !. Expected candidate =  12, but the Response candidate =   x !! 
+#  Pattern           6 at Mode 0 is FAIL !. Expected candidate =  20, but the Response candidate =   x !! 
+#  Pattern           7 at Mode 0 is FAIL !. Expected candidate =  15, but the Response candidate =   x !! 
+#  Pattern           8 at Mode 0 is FAIL !. Expected candidate =  12, but the Response candidate =   x !! 
+#  Pattern           9 at Mode 0 is FAIL !. Expected candidate =   9, but the Response candidate =   x !! 
+# ============================================================================
+# 
+#  (>_<) FAIL!! The simulation FAIL result is too many ! Please check your code @@ 
+# 
+# ============================================================================
+# ** Note: $finish    : C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v(140)
+#    Time: 31700 ns  Iteration: 2  Instance: /testfixture1
+# 1
+# Break in Module testfixture1 at C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v line 140
+# Compile of SET.v was successful.
+# Compile of testfixture.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.testfixture1
+# Loading work.SET
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpfile' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpvars' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+run -all
+# GetModuleFileName: тぃ﹚家舱
+# 
+# 
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpfile'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpvars'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+# --------------------------- [ Function 1. Simulation START !! ] ---------------------------
+#  Pattern           0 at Mode 0 is FAIL !. Expected candidate =  29, but the Response candidate =   x !! 
+#  Pattern           1 at Mode 0 is FAIL !. Expected candidate =  13, but the Response candidate =   x !! 
+#  Pattern           2 at Mode 0 is FAIL !. Expected candidate =  12, but the Response candidate =   x !! 
+#  Pattern           3 at Mode 0 is FAIL !. Expected candidate =  27, but the Response candidate =   x !! 
+#  Pattern           4 at Mode 0 is FAIL !. Expected candidate =   1, but the Response candidate =   x !! 
+#  Pattern           5 at Mode 0 is FAIL !. Expected candidate =  12, but the Response candidate =   x !! 
+#  Pattern           6 at Mode 0 is FAIL !. Expected candidate =  20, but the Response candidate =   x !! 
+#  Pattern           7 at Mode 0 is FAIL !. Expected candidate =  15, but the Response candidate =   x !! 
+#  Pattern           8 at Mode 0 is FAIL !. Expected candidate =  12, but the Response candidate =   x !! 
+#  Pattern           9 at Mode 0 is FAIL !. Expected candidate =   9, but the Response candidate =   x !! 
+# ============================================================================
+# 
+#  (>_<) FAIL!! The simulation FAIL result is too many ! Please check your code @@ 
+# 
+# ============================================================================
+# ** Note: $finish    : C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v(140)
+#    Time: 31700 ns  Iteration: 2  Instance: /testfixture1
+# 1
+# Break in Module testfixture1 at C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v line 140
+# Compile of SET.v was successful.
+# Compile of testfixture.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.testfixture1
+# Loading work.SET
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpfile' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpvars' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+run -all
+# GetModuleFileName: тぃ﹚家舱
+# 
+# 
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpfile'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpvars'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+# --------------------------- [ Function 1. Simulation START !! ] ---------------------------
+#  Pattern           0 at Mode 0 is PASS !
+#  Pattern           1 at Mode 0 is PASS !
+#  Pattern           2 at Mode 0 is PASS !
+#  Pattern           3 at Mode 0 is FAIL !. Expected candidate =  27, but the Response candidate =  22 !! 
+#  Pattern           4 at Mode 0 is FAIL !. Expected candidate =   1, but the Response candidate =   0 !! 
+#  Pattern           5 at Mode 0 is PASS !
+#  Pattern           6 at Mode 0 is FAIL !. Expected candidate =  20, but the Response candidate =   4 !! 
+#  Pattern           7 at Mode 0 is FAIL !. Expected candidate =  15, but the Response candidate =   0 !! 
+#  Pattern           8 at Mode 0 is FAIL !. Expected candidate =  12, but the Response candidate =  11 !! 
+#  Pattern           9 at Mode 0 is PASS !
+#  Pattern          10 at Mode 0 is PASS !
+#  Pattern          11 at Mode 0 is FAIL !. Expected candidate =   1, but the Response candidate =   0 !! 
+#  Pattern          12 at Mode 0 is FAIL !. Expected candidate =   4, but the Response candidate =   3 !! 
+#  Pattern          13 at Mode 0 is PASS !
+#  Pattern          14 at Mode 0 is PASS !
+#  Pattern          15 at Mode 0 is PASS !
+#  Pattern          16 at Mode 0 is PASS !
+#  Pattern          17 at Mode 0 is FAIL !. Expected candidate =   9, but the Response candidate =   4 !! 
+#  Pattern          18 at Mode 0 is FAIL !. Expected candidate =  12, but the Response candidate =  11 !! 
+#  Pattern          19 at Mode 0 is FAIL !. Expected candidate =   4, but the Response candidate =   3 !! 
+# ============================================================================
+# 
+#  (>_<) FAIL!! The simulation FAIL result is too many ! Please check your code @@ 
+# 
+# ============================================================================
+# ** Note: $finish    : C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v(140)
+#    Time: 50310 ns  Iteration: 2  Instance: /testfixture1
+# 1
+# Break in Module testfixture1 at C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v line 140
+# Compile of SET.v was successful.
+# Compile of testfixture.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.testfixture1
+# Loading work.SET
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpfile' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpvars' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+run -all
+# GetModuleFileName: тぃ﹚家舱
+# 
+# 
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpfile'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpvars'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+# --------------------------- [ Function 1. Simulation START !! ] ---------------------------
+#  Pattern           0 at Mode 0 is PASS !
+#  Pattern           1 at Mode 0 is PASS !
+#  Pattern           2 at Mode 0 is PASS !
+#  Pattern           3 at Mode 0 is PASS !
+#  Pattern           4 at Mode 0 is PASS !
+#  Pattern           5 at Mode 0 is PASS !
+#  Pattern           6 at Mode 0 is FAIL !. Expected candidate =  20, but the Response candidate =   7 !! 
+#  Pattern           7 at Mode 0 is FAIL !. Expected candidate =  15, but the Response candidate =   0 !! 
+#  Pattern           8 at Mode 0 is PASS !
+#  Pattern           9 at Mode 0 is PASS !
+#  Pattern          10 at Mode 0 is PASS !
+#  Pattern          11 at Mode 0 is PASS !
+#  Pattern          12 at Mode 0 is FAIL !. Expected candidate =   4, but the Response candidate =   3 !! 
+#  Pattern          13 at Mode 0 is PASS !
+#  Pattern          14 at Mode 0 is PASS !
+#  Pattern          15 at Mode 0 is PASS !
+#  Pattern          16 at Mode 0 is PASS !
+#  Pattern          17 at Mode 0 is PASS !
+#  Pattern          18 at Mode 0 is PASS !
+#  Pattern          19 at Mode 0 is FAIL !. Expected candidate =   4, but the Response candidate =   3 !! 
+#  Pattern          20 at Mode 0 is PASS !
+#  Pattern          21 at Mode 0 is PASS !
+#  Pattern          22 at Mode 0 is PASS !
+#  Pattern          23 at Mode 0 is PASS !
+#  Pattern          24 at Mode 0 is PASS !
+#  Pattern          25 at Mode 0 is PASS !
+#  Pattern          26 at Mode 0 is PASS !
+#  Pattern          27 at Mode 0 is PASS !
+#  Pattern          28 at Mode 0 is PASS !
+#  Pattern          29 at Mode 0 is PASS !
+#  Pattern          30 at Mode 0 is FAIL !. Expected candidate =   9, but the Response candidate =   8 !! 
+#  Pattern          31 at Mode 0 is FAIL !. Expected candidate =   6, but the Response candidate =   5 !! 
+#  Pattern          32 at Mode 0 is PASS !
+#  Pattern          33 at Mode 0 is PASS !
+#  Pattern          34 at Mode 0 is PASS !
+#  Pattern          35 at Mode 0 is PASS !
+#  Pattern          36 at Mode 0 is PASS !
+#  Pattern          37 at Mode 0 is FAIL !. Expected candidate =   9, but the Response candidate =   8 !! 
+#  Pattern          38 at Mode 0 is PASS !
+#  Pattern          39 at Mode 0 is PASS !
+#  Pattern          40 at Mode 0 is PASS !
+#  Pattern          41 at Mode 0 is PASS !
+#  Pattern          42 at Mode 0 is PASS !
+#  Pattern          43 at Mode 0 is PASS !
+#  Pattern          44 at Mode 0 is PASS !
+#  Pattern          45 at Mode 0 is PASS !
+#  Pattern          46 at Mode 0 is PASS !
+#  Pattern          47 at Mode 0 is PASS !
+#  Pattern          48 at Mode 0 is PASS !
+#  Pattern          49 at Mode 0 is PASS !
+#  Pattern          50 at Mode 0 is FAIL !. Expected candidate =   9, but the Response candidate =   8 !! 
+#  Pattern          51 at Mode 0 is PASS !
+#  Pattern          52 at Mode 0 is PASS !
+#  Pattern          53 at Mode 0 is PASS !
+#  Pattern          54 at Mode 0 is PASS !
+#  Pattern          55 at Mode 0 is PASS !
+#  Pattern          56 at Mode 0 is PASS !
+#  Pattern          57 at Mode 0 is PASS !
+#  Pattern          58 at Mode 0 is PASS !
+#  Pattern          59 at Mode 0 is PASS !
+#  Pattern          60 at Mode 0 is PASS !
+#  Pattern          61 at Mode 0 is PASS !
+#  Pattern          62 at Mode 0 is FAIL !. Expected candidate =   3, but the Response candidate =   2 !! 
+#  Pattern          63 at Mode 0 is PASS !
+# --------------------------- Simulation FINISH !!---------------------------
+# ============================================================================
+# 
+#  (T_T) FAIL!! The simulation result is FAIL!!! there were           9 errors at all.
+# 
+# ============================================================================
+# ** Note: $finish    : C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v(131)
+#    Time: 165810 ns  Iteration: 0  Instance: /testfixture1
+# 1
+# Break in Module testfixture1 at C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v line 131
+# Compile of SET.v was successful.
+# Compile of testfixture.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.testfixture1
+# Loading work.SET
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpfile' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpvars' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+run -all
+# GetModuleFileName: тぃ﹚家舱
+# 
+# 
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpfile'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpvars'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+# --------------------------- [ Function 1. Simulation START !! ] ---------------------------
+#  Pattern           0 at Mode 0 is PASS !
+#  Pattern           1 at Mode 0 is PASS !
+#  Pattern           2 at Mode 0 is PASS !
+#  Pattern           3 at Mode 0 is PASS !
+#  Pattern           4 at Mode 0 is PASS !
+#  Pattern           5 at Mode 0 is PASS !
+#  Pattern           6 at Mode 0 is PASS !
+#  Pattern           7 at Mode 0 is FAIL !. Expected candidate =  15, but the Response candidate =  14 !! 
+#  Pattern           8 at Mode 0 is PASS !
+#  Pattern           9 at Mode 0 is PASS !
+#  Pattern          10 at Mode 0 is PASS !
+#  Pattern          11 at Mode 0 is PASS !
+#  Pattern          12 at Mode 0 is FAIL !. Expected candidate =   4, but the Response candidate =   3 !! 
+#  Pattern          13 at Mode 0 is PASS !
+#  Pattern          14 at Mode 0 is PASS !
+#  Pattern          15 at Mode 0 is PASS !
+#  Pattern          16 at Mode 0 is PASS !
+#  Pattern          17 at Mode 0 is PASS !
+#  Pattern          18 at Mode 0 is PASS !
+#  Pattern          19 at Mode 0 is FAIL !. Expected candidate =   4, but the Response candidate =   3 !! 
+#  Pattern          20 at Mode 0 is PASS !
+#  Pattern          21 at Mode 0 is PASS !
+#  Pattern          22 at Mode 0 is PASS !
+#  Pattern          23 at Mode 0 is PASS !
+#  Pattern          24 at Mode 0 is PASS !
+#  Pattern          25 at Mode 0 is PASS !
+#  Pattern          26 at Mode 0 is PASS !
+#  Pattern          27 at Mode 0 is PASS !
+#  Pattern          28 at Mode 0 is PASS !
+#  Pattern          29 at Mode 0 is PASS !
+#  Pattern          30 at Mode 0 is FAIL !. Expected candidate =   9, but the Response candidate =   8 !! 
+#  Pattern          31 at Mode 0 is FAIL !. Expected candidate =   6, but the Response candidate =   5 !! 
+#  Pattern          32 at Mode 0 is PASS !
+#  Pattern          33 at Mode 0 is PASS !
+#  Pattern          34 at Mode 0 is PASS !
+#  Pattern          35 at Mode 0 is PASS !
+#  Pattern          36 at Mode 0 is PASS !
+#  Pattern          37 at Mode 0 is FAIL !. Expected candidate =   9, but the Response candidate =   8 !! 
+#  Pattern          38 at Mode 0 is PASS !
+#  Pattern          39 at Mode 0 is PASS !
+#  Pattern          40 at Mode 0 is PASS !
+#  Pattern          41 at Mode 0 is PASS !
+#  Pattern          42 at Mode 0 is PASS !
+#  Pattern          43 at Mode 0 is PASS !
+#  Pattern          44 at Mode 0 is PASS !
+#  Pattern          45 at Mode 0 is PASS !
+#  Pattern          46 at Mode 0 is PASS !
+#  Pattern          47 at Mode 0 is PASS !
+#  Pattern          48 at Mode 0 is PASS !
+#  Pattern          49 at Mode 0 is PASS !
+#  Pattern          50 at Mode 0 is FAIL !. Expected candidate =   9, but the Response candidate =   8 !! 
+#  Pattern          51 at Mode 0 is PASS !
+#  Pattern          52 at Mode 0 is PASS !
+#  Pattern          53 at Mode 0 is PASS !
+#  Pattern          54 at Mode 0 is PASS !
+#  Pattern          55 at Mode 0 is PASS !
+#  Pattern          56 at Mode 0 is PASS !
+#  Pattern          57 at Mode 0 is PASS !
+#  Pattern          58 at Mode 0 is PASS !
+#  Pattern          59 at Mode 0 is PASS !
+#  Pattern          60 at Mode 0 is PASS !
+#  Pattern          61 at Mode 0 is PASS !
+#  Pattern          62 at Mode 0 is FAIL !. Expected candidate =   3, but the Response candidate =   2 !! 
+#  Pattern          63 at Mode 0 is PASS !
+# --------------------------- Simulation FINISH !!---------------------------
+# ============================================================================
+# 
+#  (T_T) FAIL!! The simulation result is FAIL!!! there were           8 errors at all.
+# 
+# ============================================================================
+# ** Note: $finish    : C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v(131)
+#    Time: 165810 ns  Iteration: 0  Instance: /testfixture1
+# 1
+# Break in Module testfixture1 at C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v line 131
+# Compile of SET.v was successful.
+# Compile of testfixture.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.testfixture1
+# Loading work.SET
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpfile' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpvars' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+run -all
+# GetModuleFileName: тぃ﹚家舱
+# 
+# 
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpfile'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpvars'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+# --------------------------- [ Function 1. Simulation START !! ] ---------------------------
+#  Pattern           0 at Mode 0 is PASS !
+#  Pattern           1 at Mode 0 is PASS !
+#  Pattern           2 at Mode 0 is PASS !
+#  Pattern           3 at Mode 0 is PASS !
+#  Pattern           4 at Mode 0 is PASS !
+#  Pattern           5 at Mode 0 is PASS !
+#  Pattern           6 at Mode 0 is PASS !
+#  Pattern           7 at Mode 0 is FAIL !. Expected candidate =  15, but the Response candidate =  14 !! 
+#  Pattern           8 at Mode 0 is PASS !
+#  Pattern           9 at Mode 0 is PASS !
+#  Pattern          10 at Mode 0 is PASS !
+#  Pattern          11 at Mode 0 is PASS !
+#  Pattern          12 at Mode 0 is FAIL !. Expected candidate =   4, but the Response candidate =   3 !! 
+#  Pattern          13 at Mode 0 is PASS !
+#  Pattern          14 at Mode 0 is PASS !
+#  Pattern          15 at Mode 0 is PASS !
+#  Pattern          16 at Mode 0 is PASS !
+#  Pattern          17 at Mode 0 is PASS !
+#  Pattern          18 at Mode 0 is PASS !
+#  Pattern          19 at Mode 0 is FAIL !. Expected candidate =   4, but the Response candidate =   3 !! 
+#  Pattern          20 at Mode 0 is PASS !
+#  Pattern          21 at Mode 0 is PASS !
+#  Pattern          22 at Mode 0 is PASS !
+#  Pattern          23 at Mode 0 is PASS !
+#  Pattern          24 at Mode 0 is PASS !
+#  Pattern          25 at Mode 0 is PASS !
+#  Pattern          26 at Mode 0 is PASS !
+#  Pattern          27 at Mode 0 is PASS !
+#  Pattern          28 at Mode 0 is PASS !
+#  Pattern          29 at Mode 0 is PASS !
+#  Pattern          30 at Mode 0 is FAIL !. Expected candidate =   9, but the Response candidate =   8 !! 
+#  Pattern          31 at Mode 0 is FAIL !. Expected candidate =   6, but the Response candidate =   5 !! 
+#  Pattern          32 at Mode 0 is PASS !
+#  Pattern          33 at Mode 0 is PASS !
+#  Pattern          34 at Mode 0 is PASS !
+#  Pattern          35 at Mode 0 is PASS !
+#  Pattern          36 at Mode 0 is PASS !
+#  Pattern          37 at Mode 0 is FAIL !. Expected candidate =   9, but the Response candidate =   8 !! 
+#  Pattern          38 at Mode 0 is PASS !
+#  Pattern          39 at Mode 0 is PASS !
+#  Pattern          40 at Mode 0 is PASS !
+#  Pattern          41 at Mode 0 is PASS !
+#  Pattern          42 at Mode 0 is PASS !
+#  Pattern          43 at Mode 0 is PASS !
+#  Pattern          44 at Mode 0 is PASS !
+#  Pattern          45 at Mode 0 is PASS !
+#  Pattern          46 at Mode 0 is PASS !
+#  Pattern          47 at Mode 0 is PASS !
+#  Pattern          48 at Mode 0 is PASS !
+#  Pattern          49 at Mode 0 is PASS !
+#  Pattern          50 at Mode 0 is FAIL !. Expected candidate =   9, but the Response candidate =   8 !! 
+#  Pattern          51 at Mode 0 is PASS !
+#  Pattern          52 at Mode 0 is PASS !
+#  Pattern          53 at Mode 0 is PASS !
+#  Pattern          54 at Mode 0 is PASS !
+#  Pattern          55 at Mode 0 is PASS !
+#  Pattern          56 at Mode 0 is PASS !
+#  Pattern          57 at Mode 0 is PASS !
+#  Pattern          58 at Mode 0 is PASS !
+#  Pattern          59 at Mode 0 is PASS !
+#  Pattern          60 at Mode 0 is PASS !
+#  Pattern          61 at Mode 0 is PASS !
+#  Pattern          62 at Mode 0 is FAIL !. Expected candidate =   3, but the Response candidate =   2 !! 
+#  Pattern          63 at Mode 0 is PASS !
+# --------------------------- Simulation FINISH !!---------------------------
+# ============================================================================
+# 
+#  (T_T) FAIL!! The simulation result is FAIL!!! there were           8 errors at all.
+# 
+# ============================================================================
+# ** Note: $finish    : C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v(131)
+#    Time: 165810 ns  Iteration: 0  Instance: /testfixture1
+# 1
+# Break in Module testfixture1 at C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v line 131
+# Compile of SET.v was successful.
+# Compile of testfixture.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.testfixture1
+# Loading work.SET
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpfile' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpvars' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+run -all
+# GetModuleFileName: тぃ﹚家舱
+# 
+# 
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpfile'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpvars'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+# --------------------------- [ Function 1. Simulation START !! ] ---------------------------
+#  Pattern           0 at Mode 0 is PASS !
+#  Pattern           1 at Mode 0 is PASS !
+#  Pattern           2 at Mode 0 is PASS !
+#  Pattern           3 at Mode 0 is PASS !
+#  Pattern           4 at Mode 0 is PASS !
+#  Pattern           5 at Mode 0 is PASS !
+#  Pattern           6 at Mode 0 is PASS !
+#  Pattern           7 at Mode 0 is FAIL !. Expected candidate =  15, but the Response candidate =  14 !! 
+#  Pattern           8 at Mode 0 is PASS !
+#  Pattern           9 at Mode 0 is PASS !
+#  Pattern          10 at Mode 0 is PASS !
+#  Pattern          11 at Mode 0 is PASS !
+#  Pattern          12 at Mode 0 is FAIL !. Expected candidate =   4, but the Response candidate =   3 !! 
+#  Pattern          13 at Mode 0 is PASS !
+#  Pattern          14 at Mode 0 is PASS !
+#  Pattern          15 at Mode 0 is PASS !
+#  Pattern          16 at Mode 0 is PASS !
+#  Pattern          17 at Mode 0 is PASS !
+#  Pattern          18 at Mode 0 is PASS !
+#  Pattern          19 at Mode 0 is FAIL !. Expected candidate =   4, but the Response candidate =   3 !! 
+#  Pattern          20 at Mode 0 is PASS !
+#  Pattern          21 at Mode 0 is PASS !
+#  Pattern          22 at Mode 0 is PASS !
+#  Pattern          23 at Mode 0 is PASS !
+#  Pattern          24 at Mode 0 is PASS !
+#  Pattern          25 at Mode 0 is PASS !
+#  Pattern          26 at Mode 0 is PASS !
+#  Pattern          27 at Mode 0 is PASS !
+#  Pattern          28 at Mode 0 is PASS !
+#  Pattern          29 at Mode 0 is PASS !
+#  Pattern          30 at Mode 0 is FAIL !. Expected candidate =   9, but the Response candidate =   8 !! 
+#  Pattern          31 at Mode 0 is FAIL !. Expected candidate =   6, but the Response candidate =   5 !! 
+#  Pattern          32 at Mode 0 is PASS !
+#  Pattern          33 at Mode 0 is PASS !
+#  Pattern          34 at Mode 0 is PASS !
+#  Pattern          35 at Mode 0 is PASS !
+#  Pattern          36 at Mode 0 is PASS !
+#  Pattern          37 at Mode 0 is FAIL !. Expected candidate =   9, but the Response candidate =   8 !! 
+#  Pattern          38 at Mode 0 is PASS !
+#  Pattern          39 at Mode 0 is PASS !
+#  Pattern          40 at Mode 0 is PASS !
+#  Pattern          41 at Mode 0 is PASS !
+#  Pattern          42 at Mode 0 is PASS !
+#  Pattern          43 at Mode 0 is PASS !
+#  Pattern          44 at Mode 0 is PASS !
+#  Pattern          45 at Mode 0 is PASS !
+#  Pattern          46 at Mode 0 is PASS !
+#  Pattern          47 at Mode 0 is PASS !
+#  Pattern          48 at Mode 0 is PASS !
+#  Pattern          49 at Mode 0 is PASS !
+#  Pattern          50 at Mode 0 is FAIL !. Expected candidate =   9, but the Response candidate =   8 !! 
+#  Pattern          51 at Mode 0 is PASS !
+#  Pattern          52 at Mode 0 is PASS !
+#  Pattern          53 at Mode 0 is PASS !
+#  Pattern          54 at Mode 0 is PASS !
+#  Pattern          55 at Mode 0 is PASS !
+#  Pattern          56 at Mode 0 is PASS !
+#  Pattern          57 at Mode 0 is PASS !
+#  Pattern          58 at Mode 0 is PASS !
+#  Pattern          59 at Mode 0 is PASS !
+#  Pattern          60 at Mode 0 is PASS !
+#  Pattern          61 at Mode 0 is PASS !
+#  Pattern          62 at Mode 0 is FAIL !. Expected candidate =   3, but the Response candidate =   2 !! 
+#  Pattern          63 at Mode 0 is PASS !
+# --------------------------- Simulation FINISH !!---------------------------
+# ============================================================================
+# 
+#  (T_T) FAIL!! The simulation result is FAIL!!! there were           8 errors at all.
+# 
+# ============================================================================
+# ** Note: $finish    : C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v(131)
+#    Time: 165810 ns  Iteration: 0  Instance: /testfixture1
+# 1
+# Break in Module testfixture1 at C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v line 131
+# Compile of SET.v was successful.
+# Compile of testfixture.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.testfixture1
+# Loading work.SET
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpfile' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpvars' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+run -all
+# GetModuleFileName: тぃ﹚家舱
+# 
+# 
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpfile'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpvars'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+# --------------------------- [ Function 1. Simulation START !! ] ---------------------------
+#  Pattern           0 at Mode 0 is PASS !
+#  Pattern           1 at Mode 0 is PASS !
+#  Pattern           2 at Mode 0 is PASS !
+#  Pattern           3 at Mode 0 is PASS !
+#  Pattern           4 at Mode 0 is PASS !
+#  Pattern           5 at Mode 0 is PASS !
+#  Pattern           6 at Mode 0 is PASS !
+#  Pattern           7 at Mode 0 is FAIL !. Expected candidate =  15, but the Response candidate =  14 !! 
+#  Pattern           8 at Mode 0 is PASS !
+#  Pattern           9 at Mode 0 is PASS !
+#  Pattern          10 at Mode 0 is PASS !
+#  Pattern          11 at Mode 0 is PASS !
+#  Pattern          12 at Mode 0 is FAIL !. Expected candidate =   4, but the Response candidate =   3 !! 
+#  Pattern          13 at Mode 0 is PASS !
+#  Pattern          14 at Mode 0 is PASS !
+#  Pattern          15 at Mode 0 is PASS !
+#  Pattern          16 at Mode 0 is PASS !
+#  Pattern          17 at Mode 0 is PASS !
+#  Pattern          18 at Mode 0 is PASS !
+#  Pattern          19 at Mode 0 is FAIL !. Expected candidate =   4, but the Response candidate =   3 !! 
+#  Pattern          20 at Mode 0 is PASS !
+#  Pattern          21 at Mode 0 is PASS !
+#  Pattern          22 at Mode 0 is PASS !
+#  Pattern          23 at Mode 0 is PASS !
+#  Pattern          24 at Mode 0 is PASS !
+#  Pattern          25 at Mode 0 is PASS !
+#  Pattern          26 at Mode 0 is PASS !
+#  Pattern          27 at Mode 0 is PASS !
+#  Pattern          28 at Mode 0 is PASS !
+#  Pattern          29 at Mode 0 is PASS !
+#  Pattern          30 at Mode 0 is FAIL !. Expected candidate =   9, but the Response candidate =   8 !! 
+#  Pattern          31 at Mode 0 is FAIL !. Expected candidate =   6, but the Response candidate =   5 !! 
+#  Pattern          32 at Mode 0 is PASS !
+#  Pattern          33 at Mode 0 is PASS !
+#  Pattern          34 at Mode 0 is PASS !
+#  Pattern          35 at Mode 0 is PASS !
+#  Pattern          36 at Mode 0 is PASS !
+#  Pattern          37 at Mode 0 is FAIL !. Expected candidate =   9, but the Response candidate =   8 !! 
+#  Pattern          38 at Mode 0 is PASS !
+#  Pattern          39 at Mode 0 is PASS !
+#  Pattern          40 at Mode 0 is PASS !
+#  Pattern          41 at Mode 0 is PASS !
+#  Pattern          42 at Mode 0 is PASS !
+#  Pattern          43 at Mode 0 is PASS !
+#  Pattern          44 at Mode 0 is PASS !
+#  Pattern          45 at Mode 0 is PASS !
+#  Pattern          46 at Mode 0 is PASS !
+#  Pattern          47 at Mode 0 is PASS !
+#  Pattern          48 at Mode 0 is PASS !
+#  Pattern          49 at Mode 0 is PASS !
+#  Pattern          50 at Mode 0 is FAIL !. Expected candidate =   9, but the Response candidate =   8 !! 
+#  Pattern          51 at Mode 0 is PASS !
+#  Pattern          52 at Mode 0 is PASS !
+#  Pattern          53 at Mode 0 is PASS !
+#  Pattern          54 at Mode 0 is PASS !
+#  Pattern          55 at Mode 0 is PASS !
+#  Pattern          56 at Mode 0 is PASS !
+#  Pattern          57 at Mode 0 is PASS !
+#  Pattern          58 at Mode 0 is PASS !
+#  Pattern          59 at Mode 0 is PASS !
+#  Pattern          60 at Mode 0 is PASS !
+#  Pattern          61 at Mode 0 is PASS !
+#  Pattern          62 at Mode 0 is FAIL !. Expected candidate =   3, but the Response candidate =   2 !! 
+#  Pattern          63 at Mode 0 is PASS !
+# --------------------------- Simulation FINISH !!---------------------------
+# ============================================================================
+# 
+#  (T_T) FAIL!! The simulation result is FAIL!!! there were           8 errors at all.
+# 
+# ============================================================================
+# ** Note: $finish    : C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v(131)
+#    Time: 165810 ns  Iteration: 0  Instance: /testfixture1
+# 1
+# Break in Module testfixture1 at C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v line 131
+# Compile of SET.v was successful.
+# Compile of testfixture.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.testfixture1
+# End time: 23:14:55 on Jan 21,2024, Elapsed time: 1:01:59
+# Errors: 2, Warnings: 4
+# vsim -gui work.testfixture1 
+# Start time: 23:14:55 on Jan 21,2024
+# Loading work.testfixture1
+# Loading work.SET
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpfile' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpvars' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+add wave -position insertpoint sim:/testfixture1/*
+add wave -position insertpoint sim:/testfixture1/u_set/*
+add wave -position 12  sim:/testfixture1/u_set/map
+run -all
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpfile'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpvars'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+# --------------------------- [ Function 1. Simulation START !! ] ---------------------------
+#  Pattern           0 at Mode 0 is PASS !
+#  Pattern           1 at Mode 0 is PASS !
+#  Pattern           2 at Mode 0 is PASS !
+#  Pattern           3 at Mode 0 is PASS !
+#  Pattern           4 at Mode 0 is PASS !
+#  Pattern           5 at Mode 0 is PASS !
+#  Pattern           6 at Mode 0 is PASS !
+#  Pattern           7 at Mode 0 is FAIL !. Expected candidate =  15, but the Response candidate =  14 !! 
+#  Pattern           8 at Mode 0 is PASS !
+#  Pattern           9 at Mode 0 is PASS !
+#  Pattern          10 at Mode 0 is PASS !
+#  Pattern          11 at Mode 0 is PASS !
+#  Pattern          12 at Mode 0 is FAIL !. Expected candidate =   4, but the Response candidate =   3 !! 
+#  Pattern          13 at Mode 0 is PASS !
+#  Pattern          14 at Mode 0 is PASS !
+#  Pattern          15 at Mode 0 is PASS !
+#  Pattern          16 at Mode 0 is PASS !
+#  Pattern          17 at Mode 0 is PASS !
+#  Pattern          18 at Mode 0 is PASS !
+#  Pattern          19 at Mode 0 is FAIL !. Expected candidate =   4, but the Response candidate =   3 !! 
+#  Pattern          20 at Mode 0 is PASS !
+#  Pattern          21 at Mode 0 is PASS !
+#  Pattern          22 at Mode 0 is PASS !
+#  Pattern          23 at Mode 0 is PASS !
+#  Pattern          24 at Mode 0 is PASS !
+#  Pattern          25 at Mode 0 is PASS !
+#  Pattern          26 at Mode 0 is PASS !
+#  Pattern          27 at Mode 0 is PASS !
+#  Pattern          28 at Mode 0 is PASS !
+#  Pattern          29 at Mode 0 is PASS !
+#  Pattern          30 at Mode 0 is FAIL !. Expected candidate =   9, but the Response candidate =   8 !! 
+#  Pattern          31 at Mode 0 is FAIL !. Expected candidate =   6, but the Response candidate =   5 !! 
+#  Pattern          32 at Mode 0 is PASS !
+#  Pattern          33 at Mode 0 is PASS !
+#  Pattern          34 at Mode 0 is PASS !
+#  Pattern          35 at Mode 0 is PASS !
+#  Pattern          36 at Mode 0 is PASS !
+#  Pattern          37 at Mode 0 is FAIL !. Expected candidate =   9, but the Response candidate =   8 !! 
+#  Pattern          38 at Mode 0 is PASS !
+#  Pattern          39 at Mode 0 is PASS !
+#  Pattern          40 at Mode 0 is PASS !
+#  Pattern          41 at Mode 0 is PASS !
+#  Pattern          42 at Mode 0 is PASS !
+#  Pattern          43 at Mode 0 is PASS !
+#  Pattern          44 at Mode 0 is PASS !
+#  Pattern          45 at Mode 0 is PASS !
+#  Pattern          46 at Mode 0 is PASS !
+#  Pattern          47 at Mode 0 is PASS !
+#  Pattern          48 at Mode 0 is PASS !
+#  Pattern          49 at Mode 0 is PASS !
+#  Pattern          50 at Mode 0 is FAIL !. Expected candidate =   9, but the Response candidate =   8 !! 
+#  Pattern          51 at Mode 0 is PASS !
+#  Pattern          52 at Mode 0 is PASS !
+#  Pattern          53 at Mode 0 is PASS !
+#  Pattern          54 at Mode 0 is PASS !
+#  Pattern          55 at Mode 0 is PASS !
+#  Pattern          56 at Mode 0 is PASS !
+#  Pattern          57 at Mode 0 is PASS !
+#  Pattern          58 at Mode 0 is PASS !
+#  Pattern          59 at Mode 0 is PASS !
+#  Pattern          60 at Mode 0 is PASS !
+#  Pattern          61 at Mode 0 is PASS !
+#  Pattern          62 at Mode 0 is FAIL !. Expected candidate =   3, but the Response candidate =   2 !! 
+#  Pattern          63 at Mode 0 is PASS !
+# --------------------------- Simulation FINISH !!---------------------------
+# ============================================================================
+# 
+#  (T_T) FAIL!! The simulation result is FAIL!!! there were           8 errors at all.
+# 
+# ============================================================================
+# ** Note: $finish    : C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v(131)
+#    Time: 165810 ns  Iteration: 0  Instance: /testfixture1
+# 1
+# Break in Module testfixture1 at C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v line 131
+# Compile of SET.v was successful.
+# Compile of testfixture.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.testfixture1
+# Loading work.SET
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpfile' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpvars' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+run -all
+# GetModuleFileName: тぃ﹚家舱
+# 
+# 
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpfile'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpvars'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+# --------------------------- [ Function 1. Simulation START !! ] ---------------------------
+#  Pattern           0 at Mode 0 is PASS !
+#  Pattern           1 at Mode 0 is PASS !
+#  Pattern           2 at Mode 0 is FAIL !. Expected candidate =  12, but the Response candidate =  11 !! 
+#  Pattern           3 at Mode 0 is PASS !
+#  Pattern           4 at Mode 0 is PASS !
+#  Pattern           5 at Mode 0 is FAIL !. Expected candidate =  12, but the Response candidate =  11 !! 
+#  Pattern           6 at Mode 0 is PASS !
+#  Pattern           7 at Mode 0 is FAIL !. Expected candidate =  15, but the Response candidate =  13 !! 
+#  Pattern           8 at Mode 0 is PASS !
+#  Pattern           9 at Mode 0 is PASS !
+#  Pattern          10 at Mode 0 is PASS !
+#  Pattern          11 at Mode 0 is PASS !
+#  Pattern          12 at Mode 0 is FAIL !. Expected candidate =   4, but the Response candidate =   3 !! 
+#  Pattern          13 at Mode 0 is PASS !
+#  Pattern          14 at Mode 0 is PASS !
+#  Pattern          15 at Mode 0 is PASS !
+#  Pattern          16 at Mode 0 is PASS !
+#  Pattern          17 at Mode 0 is PASS !
+#  Pattern          18 at Mode 0 is PASS !
+#  Pattern          19 at Mode 0 is FAIL !. Expected candidate =   4, but the Response candidate =   2 !! 
+#  Pattern          20 at Mode 0 is PASS !
+#  Pattern          21 at Mode 0 is PASS !
+#  Pattern          22 at Mode 0 is PASS !
+#  Pattern          23 at Mode 0 is PASS !
+#  Pattern          24 at Mode 0 is PASS !
+#  Pattern          25 at Mode 0 is PASS !
+#  Pattern          26 at Mode 0 is PASS !
+#  Pattern          27 at Mode 0 is PASS !
+#  Pattern          28 at Mode 0 is PASS !
+#  Pattern          29 at Mode 0 is PASS !
+#  Pattern          30 at Mode 0 is FAIL !. Expected candidate =   9, but the Response candidate =   8 !! 
+#  Pattern          31 at Mode 0 is FAIL !. Expected candidate =   6, but the Response candidate =   4 !! 
+#  Pattern          32 at Mode 0 is PASS !
+#  Pattern          33 at Mode 0 is PASS !
+#  Pattern          34 at Mode 0 is PASS !
+#  Pattern          35 at Mode 0 is PASS !
+#  Pattern          36 at Mode 0 is PASS !
+#  Pattern          37 at Mode 0 is FAIL !. Expected candidate =   9, but the Response candidate =   7 !! 
+#  Pattern          38 at Mode 0 is PASS !
+#  Pattern          39 at Mode 0 is PASS !
+#  Pattern          40 at Mode 0 is PASS !
+#  Pattern          41 at Mode 0 is PASS !
+#  Pattern          42 at Mode 0 is PASS !
+#  Pattern          43 at Mode 0 is PASS !
+#  Pattern          44 at Mode 0 is PASS !
+#  Pattern          45 at Mode 0 is PASS !
+#  Pattern          46 at Mode 0 is PASS !
+#  Pattern          47 at Mode 0 is PASS !
+#  Pattern          48 at Mode 0 is PASS !
+#  Pattern          49 at Mode 0 is FAIL !. Expected candidate =  12, but the Response candidate =  11 !! 
+#  Pattern          50 at Mode 0 is FAIL !. Expected candidate =   9, but the Response candidate =   8 !! 
+# ============================================================================
+# 
+#  (>_<) FAIL!! The simulation FAIL result is too many ! Please check your code @@ 
+# 
+# ============================================================================
+# ** Note: $finish    : C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v(140)
+#    Time: 132120 ns  Iteration: 2  Instance: /testfixture1
+# 1
+# Break in Module testfixture1 at C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v line 140
+# Compile of SET.v was successful.
+# Compile of testfixture.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.testfixture1
+# Loading work.SET
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpfile' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpvars' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+run -all
+# GetModuleFileName: тぃ﹚家舱
+# 
+# 
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpfile'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpvars'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+# --------------------------- [ Function 1. Simulation START !! ] ---------------------------
+#  Pattern           0 at Mode 0 is PASS !
+#  Pattern           1 at Mode 0 is PASS !
+#  Pattern           2 at Mode 0 is PASS !
+#  Pattern           3 at Mode 0 is PASS !
+#  Pattern           4 at Mode 0 is PASS !
+#  Pattern           5 at Mode 0 is PASS !
+#  Pattern           6 at Mode 0 is PASS !
+#  Pattern           7 at Mode 0 is FAIL !. Expected candidate =  15, but the Response candidate =  14 !! 
+#  Pattern           8 at Mode 0 is PASS !
+#  Pattern           9 at Mode 0 is PASS !
+#  Pattern          10 at Mode 0 is PASS !
+#  Pattern          11 at Mode 0 is PASS !
+#  Pattern          12 at Mode 0 is FAIL !. Expected candidate =   4, but the Response candidate =   3 !! 
+#  Pattern          13 at Mode 0 is PASS !
+#  Pattern          14 at Mode 0 is PASS !
+#  Pattern          15 at Mode 0 is PASS !
+#  Pattern          16 at Mode 0 is PASS !
+#  Pattern          17 at Mode 0 is PASS !
+#  Pattern          18 at Mode 0 is PASS !
+#  Pattern          19 at Mode 0 is FAIL !. Expected candidate =   4, but the Response candidate =   3 !! 
+#  Pattern          20 at Mode 0 is PASS !
+#  Pattern          21 at Mode 0 is PASS !
+#  Pattern          22 at Mode 0 is PASS !
+#  Pattern          23 at Mode 0 is PASS !
+#  Pattern          24 at Mode 0 is PASS !
+#  Pattern          25 at Mode 0 is PASS !
+#  Pattern          26 at Mode 0 is PASS !
+#  Pattern          27 at Mode 0 is PASS !
+#  Pattern          28 at Mode 0 is PASS !
+#  Pattern          29 at Mode 0 is PASS !
+#  Pattern          30 at Mode 0 is FAIL !. Expected candidate =   9, but the Response candidate =   8 !! 
+#  Pattern          31 at Mode 0 is FAIL !. Expected candidate =   6, but the Response candidate =   5 !! 
+#  Pattern          32 at Mode 0 is PASS !
+#  Pattern          33 at Mode 0 is PASS !
+#  Pattern          34 at Mode 0 is PASS !
+#  Pattern          35 at Mode 0 is PASS !
+#  Pattern          36 at Mode 0 is PASS !
+#  Pattern          37 at Mode 0 is FAIL !. Expected candidate =   9, but the Response candidate =   8 !! 
+#  Pattern          38 at Mode 0 is PASS !
+#  Pattern          39 at Mode 0 is PASS !
+#  Pattern          40 at Mode 0 is PASS !
+#  Pattern          41 at Mode 0 is PASS !
+#  Pattern          42 at Mode 0 is PASS !
+#  Pattern          43 at Mode 0 is PASS !
+#  Pattern          44 at Mode 0 is PASS !
+#  Pattern          45 at Mode 0 is PASS !
+#  Pattern          46 at Mode 0 is PASS !
+#  Pattern          47 at Mode 0 is PASS !
+#  Pattern          48 at Mode 0 is PASS !
+#  Pattern          49 at Mode 0 is PASS !
+#  Pattern          50 at Mode 0 is FAIL !. Expected candidate =   9, but the Response candidate =   8 !! 
+#  Pattern          51 at Mode 0 is PASS !
+#  Pattern          52 at Mode 0 is PASS !
+#  Pattern          53 at Mode 0 is PASS !
+#  Pattern          54 at Mode 0 is PASS !
+#  Pattern          55 at Mode 0 is PASS !
+#  Pattern          56 at Mode 0 is PASS !
+#  Pattern          57 at Mode 0 is PASS !
+#  Pattern          58 at Mode 0 is PASS !
+#  Pattern          59 at Mode 0 is PASS !
+#  Pattern          60 at Mode 0 is PASS !
+#  Pattern          61 at Mode 0 is PASS !
+#  Pattern          62 at Mode 0 is FAIL !. Expected candidate =   3, but the Response candidate =   2 !! 
+#  Pattern          63 at Mode 0 is PASS !
+# --------------------------- Simulation FINISH !!---------------------------
+# ============================================================================
+# 
+#  (T_T) FAIL!! The simulation result is FAIL!!! there were           8 errors at all.
+# 
+# ============================================================================
+# ** Note: $finish    : C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v(131)
+#    Time: 165810 ns  Iteration: 0  Instance: /testfixture1
+# 1
+# Break in Module testfixture1 at C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v line 131
+# Compile of SET.v was successful.
+# Compile of testfixture.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.testfixture1
+# Loading work.SET
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpfile' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpvars' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+run -all
+# GetModuleFileName: тぃ﹚家舱
+# 
+# 
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpfile'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpvars'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+# --------------------------- [ Function 1. Simulation START !! ] ---------------------------
+#  Pattern           0 at Mode 0 is PASS !
+#  Pattern           1 at Mode 0 is PASS !
+#  Pattern           2 at Mode 0 is PASS !
+#  Pattern           3 at Mode 0 is PASS !
+#  Pattern           4 at Mode 0 is PASS !
+#  Pattern           5 at Mode 0 is PASS !
+#  Pattern           6 at Mode 0 is FAIL !. Expected candidate =  20, but the Response candidate =  19 !! 
+#  Pattern           7 at Mode 0 is FAIL !. Expected candidate =  15, but the Response candidate =  14 !! 
+#  Pattern           8 at Mode 0 is PASS !
+#  Pattern           9 at Mode 0 is PASS !
+#  Pattern          10 at Mode 0 is PASS !
+#  Pattern          11 at Mode 0 is PASS !
+#  Pattern          12 at Mode 0 is FAIL !. Expected candidate =   4, but the Response candidate =   3 !! 
+#  Pattern          13 at Mode 0 is PASS !
+#  Pattern          14 at Mode 0 is PASS !
+#  Pattern          15 at Mode 0 is PASS !
+#  Pattern          16 at Mode 0 is PASS !
+#  Pattern          17 at Mode 0 is PASS !
+#  Pattern          18 at Mode 0 is PASS !
+#  Pattern          19 at Mode 0 is FAIL !. Expected candidate =   4, but the Response candidate =   3 !! 
+#  Pattern          20 at Mode 0 is PASS !
+#  Pattern          21 at Mode 0 is PASS !
+#  Pattern          22 at Mode 0 is PASS !
+#  Pattern          23 at Mode 0 is PASS !
+#  Pattern          24 at Mode 0 is PASS !
+#  Pattern          25 at Mode 0 is PASS !
+#  Pattern          26 at Mode 0 is PASS !
+#  Pattern          27 at Mode 0 is PASS !
+#  Pattern          28 at Mode 0 is PASS !
+#  Pattern          29 at Mode 0 is PASS !
+#  Pattern          30 at Mode 0 is FAIL !. Expected candidate =   9, but the Response candidate =   8 !! 
+#  Pattern          31 at Mode 0 is FAIL !. Expected candidate =   6, but the Response candidate =   5 !! 
+#  Pattern          32 at Mode 0 is PASS !
+#  Pattern          33 at Mode 0 is PASS !
+#  Pattern          34 at Mode 0 is PASS !
+#  Pattern          35 at Mode 0 is FAIL !. Expected candidate =   8, but the Response candidate =   7 !! 
+#  Pattern          36 at Mode 0 is PASS !
+#  Pattern          37 at Mode 0 is FAIL !. Expected candidate =   9, but the Response candidate =   8 !! 
+#  Pattern          38 at Mode 0 is FAIL !. Expected candidate =   6, but the Response candidate =   5 !! 
+#  Pattern          39 at Mode 0 is PASS !
+#  Pattern          40 at Mode 0 is PASS !
+#  Pattern          41 at Mode 0 is PASS !
+#  Pattern          42 at Mode 0 is PASS !
+#  Pattern          43 at Mode 0 is PASS !
+#  Pattern          44 at Mode 0 is PASS !
+#  Pattern          45 at Mode 0 is PASS !
+#  Pattern          46 at Mode 0 is PASS !
+#  Pattern          47 at Mode 0 is PASS !
+#  Pattern          48 at Mode 0 is FAIL !. Expected candidate =  11, but the Response candidate =  10 !! 
+# ============================================================================
+# 
+#  (>_<) FAIL!! The simulation FAIL result is too many ! Please check your code @@ 
+# 
+# ============================================================================
+# ** Note: $finish    : C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v(140)
+#    Time: 126940 ns  Iteration: 2  Instance: /testfixture1
+# 1
+# Break in Module testfixture1 at C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v line 140
+# Compile of SET.v was successful.
+# Compile of testfixture.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.testfixture1
+# Loading work.SET
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpfile' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpvars' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+run -all
+# GetModuleFileName: тぃ﹚家舱
+# 
+# 
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpfile'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpvars'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+# --------------------------- [ Function 1. Simulation START !! ] ---------------------------
+#  Pattern           0 at Mode 0 is PASS !
+#  Pattern           1 at Mode 0 is PASS !
+#  Pattern           2 at Mode 0 is FAIL !. Expected candidate =  12, but the Response candidate =  11 !! 
+#  Pattern           3 at Mode 0 is PASS !
+#  Pattern           4 at Mode 0 is PASS !
+#  Pattern           5 at Mode 0 is FAIL !. Expected candidate =  12, but the Response candidate =  11 !! 
+#  Pattern           6 at Mode 0 is PASS !
+#  Pattern           7 at Mode 0 is FAIL !. Expected candidate =  15, but the Response candidate =  13 !! 
+#  Pattern           8 at Mode 0 is PASS !
+#  Pattern           9 at Mode 0 is PASS !
+#  Pattern          10 at Mode 0 is PASS !
+#  Pattern          11 at Mode 0 is PASS !
+#  Pattern          12 at Mode 0 is FAIL !. Expected candidate =   4, but the Response candidate =   3 !! 
+#  Pattern          13 at Mode 0 is PASS !
+#  Pattern          14 at Mode 0 is PASS !
+#  Pattern          15 at Mode 0 is PASS !
+#  Pattern          16 at Mode 0 is PASS !
+#  Pattern          17 at Mode 0 is PASS !
+#  Pattern          18 at Mode 0 is PASS !
+#  Pattern          19 at Mode 0 is FAIL !. Expected candidate =   4, but the Response candidate =   2 !! 
+#  Pattern          20 at Mode 0 is PASS !
+#  Pattern          21 at Mode 0 is PASS !
+#  Pattern          22 at Mode 0 is PASS !
+#  Pattern          23 at Mode 0 is PASS !
+#  Pattern          24 at Mode 0 is PASS !
+#  Pattern          25 at Mode 0 is PASS !
+#  Pattern          26 at Mode 0 is PASS !
+#  Pattern          27 at Mode 0 is PASS !
+#  Pattern          28 at Mode 0 is PASS !
+#  Pattern          29 at Mode 0 is PASS !
+#  Pattern          30 at Mode 0 is FAIL !. Expected candidate =   9, but the Response candidate =   8 !! 
+#  Pattern          31 at Mode 0 is FAIL !. Expected candidate =   6, but the Response candidate =   4 !! 
+#  Pattern          32 at Mode 0 is PASS !
+#  Pattern          33 at Mode 0 is PASS !
+#  Pattern          34 at Mode 0 is PASS !
+#  Pattern          35 at Mode 0 is PASS !
+#  Pattern          36 at Mode 0 is PASS !
+#  Pattern          37 at Mode 0 is FAIL !. Expected candidate =   9, but the Response candidate =   7 !! 
+#  Pattern          38 at Mode 0 is PASS !
+#  Pattern          39 at Mode 0 is PASS !
+#  Pattern          40 at Mode 0 is PASS !
+#  Pattern          41 at Mode 0 is PASS !
+#  Pattern          42 at Mode 0 is PASS !
+#  Pattern          43 at Mode 0 is PASS !
+#  Pattern          44 at Mode 0 is PASS !
+#  Pattern          45 at Mode 0 is PASS !
+#  Pattern          46 at Mode 0 is PASS !
+#  Pattern          47 at Mode 0 is PASS !
+#  Pattern          48 at Mode 0 is PASS !
+#  Pattern          49 at Mode 0 is FAIL !. Expected candidate =  12, but the Response candidate =  11 !! 
+#  Pattern          50 at Mode 0 is FAIL !. Expected candidate =   9, but the Response candidate =   8 !! 
+# ============================================================================
+# 
+#  (>_<) FAIL!! The simulation FAIL result is too many ! Please check your code @@ 
+# 
+# ============================================================================
+# ** Note: $finish    : C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v(140)
+#    Time: 132120 ns  Iteration: 2  Instance: /testfixture1
+# 1
+# Break in Module testfixture1 at C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v line 140
+# Compile of SET.v was successful.
+# Compile of testfixture.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.testfixture1
+# Loading work.SET
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpfile' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpvars' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+run -all
+# GetModuleFileName: тぃ﹚家舱
+# 
+# 
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpfile'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpvars'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+# --------------------------- [ Function 1. Simulation START !! ] ---------------------------
+#  Pattern           0 at Mode 0 is PASS !
+#  Pattern           1 at Mode 0 is PASS !
+#  Pattern           2 at Mode 0 is PASS !
+#  Pattern           3 at Mode 0 is PASS !
+#  Pattern           4 at Mode 0 is PASS !
+#  Pattern           5 at Mode 0 is PASS !
+#  Pattern           6 at Mode 0 is FAIL !. Expected candidate =  20, but the Response candidate =  19 !! 
+#  Pattern           7 at Mode 0 is FAIL !. Expected candidate =  15, but the Response candidate =  14 !! 
+#  Pattern           8 at Mode 0 is PASS !
+#  Pattern           9 at Mode 0 is PASS !
+#  Pattern          10 at Mode 0 is PASS !
+#  Pattern          11 at Mode 0 is PASS !
+#  Pattern          12 at Mode 0 is FAIL !. Expected candidate =   4, but the Response candidate =   3 !! 
+#  Pattern          13 at Mode 0 is PASS !
+#  Pattern          14 at Mode 0 is PASS !
+#  Pattern          15 at Mode 0 is PASS !
+#  Pattern          16 at Mode 0 is PASS !
+#  Pattern          17 at Mode 0 is PASS !
+#  Pattern          18 at Mode 0 is PASS !
+#  Pattern          19 at Mode 0 is FAIL !. Expected candidate =   4, but the Response candidate =   3 !! 
+#  Pattern          20 at Mode 0 is PASS !
+#  Pattern          21 at Mode 0 is PASS !
+#  Pattern          22 at Mode 0 is PASS !
+#  Pattern          23 at Mode 0 is PASS !
+#  Pattern          24 at Mode 0 is PASS !
+#  Pattern          25 at Mode 0 is PASS !
+#  Pattern          26 at Mode 0 is PASS !
+#  Pattern          27 at Mode 0 is PASS !
+#  Pattern          28 at Mode 0 is PASS !
+#  Pattern          29 at Mode 0 is PASS !
+#  Pattern          30 at Mode 0 is FAIL !. Expected candidate =   9, but the Response candidate =   8 !! 
+#  Pattern          31 at Mode 0 is FAIL !. Expected candidate =   6, but the Response candidate =   5 !! 
+#  Pattern          32 at Mode 0 is PASS !
+#  Pattern          33 at Mode 0 is PASS !
+#  Pattern          34 at Mode 0 is PASS !
+#  Pattern          35 at Mode 0 is FAIL !. Expected candidate =   8, but the Response candidate =   7 !! 
+#  Pattern          36 at Mode 0 is PASS !
+#  Pattern          37 at Mode 0 is FAIL !. Expected candidate =   9, but the Response candidate =   8 !! 
+#  Pattern          38 at Mode 0 is FAIL !. Expected candidate =   6, but the Response candidate =   5 !! 
+#  Pattern          39 at Mode 0 is PASS !
+#  Pattern          40 at Mode 0 is PASS !
+#  Pattern          41 at Mode 0 is PASS !
+#  Pattern          42 at Mode 0 is PASS !
+#  Pattern          43 at Mode 0 is PASS !
+#  Pattern          44 at Mode 0 is PASS !
+#  Pattern          45 at Mode 0 is PASS !
+#  Pattern          46 at Mode 0 is PASS !
+#  Pattern          47 at Mode 0 is PASS !
+#  Pattern          48 at Mode 0 is FAIL !. Expected candidate =  11, but the Response candidate =  10 !! 
+# ============================================================================
+# 
+#  (>_<) FAIL!! The simulation FAIL result is too many ! Please check your code @@ 
+# 
+# ============================================================================
+# ** Note: $finish    : C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v(140)
+#    Time: 126940 ns  Iteration: 2  Instance: /testfixture1
+# 1
+# Break in Module testfixture1 at C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v line 140
+# Compile of SET.v was successful.
+# Compile of testfixture.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.testfixture1
+# End time: 23:31:37 on Jan 21,2024, Elapsed time: 0:16:42
+# Errors: 2, Warnings: 4
+# vsim -gui work.testfixture1 
+# Start time: 23:31:37 on Jan 21,2024
+# Loading work.testfixture1
+# Loading work.SET
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpfile' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpvars' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+add wave -position insertpoint sim:/testfixture1/*
+add wave -position insertpoint sim:/testfixture1/u_set/*
+add wave -position 12  sim:/testfixture1/u_set/map
+run -all
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpfile'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpvars'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+# --------------------------- [ Function 1. Simulation START !! ] ---------------------------
+#  Pattern           0 at Mode 0 is PASS !
+#  Pattern           1 at Mode 0 is PASS !
+#  Pattern           2 at Mode 0 is PASS !
+#  Pattern           3 at Mode 0 is PASS !
+#  Pattern           4 at Mode 0 is PASS !
+#  Pattern           5 at Mode 0 is PASS !
+#  Pattern           6 at Mode 0 is FAIL !. Expected candidate =  20, but the Response candidate =  19 !! 
+#  Pattern           7 at Mode 0 is FAIL !. Expected candidate =  15, but the Response candidate =  14 !! 
+#  Pattern           8 at Mode 0 is PASS !
+#  Pattern           9 at Mode 0 is PASS !
+#  Pattern          10 at Mode 0 is PASS !
+#  Pattern          11 at Mode 0 is PASS !
+#  Pattern          12 at Mode 0 is FAIL !. Expected candidate =   4, but the Response candidate =   3 !! 
+#  Pattern          13 at Mode 0 is PASS !
+#  Pattern          14 at Mode 0 is PASS !
+#  Pattern          15 at Mode 0 is PASS !
+#  Pattern          16 at Mode 0 is PASS !
+#  Pattern          17 at Mode 0 is PASS !
+#  Pattern          18 at Mode 0 is PASS !
+#  Pattern          19 at Mode 0 is FAIL !. Expected candidate =   4, but the Response candidate =   3 !! 
+#  Pattern          20 at Mode 0 is PASS !
+#  Pattern          21 at Mode 0 is PASS !
+#  Pattern          22 at Mode 0 is PASS !
+#  Pattern          23 at Mode 0 is PASS !
+#  Pattern          24 at Mode 0 is PASS !
+#  Pattern          25 at Mode 0 is PASS !
+#  Pattern          26 at Mode 0 is PASS !
+#  Pattern          27 at Mode 0 is PASS !
+#  Pattern          28 at Mode 0 is PASS !
+#  Pattern          29 at Mode 0 is PASS !
+#  Pattern          30 at Mode 0 is FAIL !. Expected candidate =   9, but the Response candidate =   8 !! 
+#  Pattern          31 at Mode 0 is FAIL !. Expected candidate =   6, but the Response candidate =   5 !! 
+#  Pattern          32 at Mode 0 is PASS !
+#  Pattern          33 at Mode 0 is PASS !
+#  Pattern          34 at Mode 0 is PASS !
+#  Pattern          35 at Mode 0 is FAIL !. Expected candidate =   8, but the Response candidate =   7 !! 
+#  Pattern          36 at Mode 0 is PASS !
+#  Pattern          37 at Mode 0 is FAIL !. Expected candidate =   9, but the Response candidate =   8 !! 
+#  Pattern          38 at Mode 0 is FAIL !. Expected candidate =   6, but the Response candidate =   5 !! 
+#  Pattern          39 at Mode 0 is PASS !
+#  Pattern          40 at Mode 0 is PASS !
+#  Pattern          41 at Mode 0 is PASS !
+#  Pattern          42 at Mode 0 is PASS !
+#  Pattern          43 at Mode 0 is PASS !
+#  Pattern          44 at Mode 0 is PASS !
+#  Pattern          45 at Mode 0 is PASS !
+#  Pattern          46 at Mode 0 is PASS !
+#  Pattern          47 at Mode 0 is PASS !
+#  Pattern          48 at Mode 0 is FAIL !. Expected candidate =  11, but the Response candidate =  10 !! 
+# ============================================================================
+# 
+#  (>_<) FAIL!! The simulation FAIL result is too many ! Please check your code @@ 
+# 
+# ============================================================================
+# ** Note: $finish    : C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v(140)
+#    Time: 126940 ns  Iteration: 2  Instance: /testfixture1
+# 1
+# Break in Module testfixture1 at C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v line 140
+# Compile of SET.v was successful.
+# Compile of testfixture.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.testfixture1
+# Loading work.SET
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpfile' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpvars' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+run -all
+# GetModuleFileName: тぃ﹚家舱
+# 
+# 
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpfile'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpvars'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+# --------------------------- [ Function 1. Simulation START !! ] ---------------------------
+#  Pattern           0 at Mode 0 is PASS !
+#  Pattern           1 at Mode 0 is PASS !
+#  Pattern           2 at Mode 0 is PASS !
+#  Pattern           3 at Mode 0 is PASS !
+#  Pattern           4 at Mode 0 is PASS !
+#  Pattern           5 at Mode 0 is PASS !
+#  Pattern           6 at Mode 0 is FAIL !. Expected candidate =  20, but the Response candidate =  19 !! 
+#  Pattern           7 at Mode 0 is PASS !
+#  Pattern           8 at Mode 0 is PASS !
+#  Pattern           9 at Mode 0 is PASS !
+#  Pattern          10 at Mode 0 is PASS !
+#  Pattern          11 at Mode 0 is PASS !
+#  Pattern          12 at Mode 0 is PASS !
+#  Pattern          13 at Mode 0 is PASS !
+#  Pattern          14 at Mode 0 is PASS !
+#  Pattern          15 at Mode 0 is PASS !
+#  Pattern          16 at Mode 0 is PASS !
+#  Pattern          17 at Mode 0 is PASS !
+#  Pattern          18 at Mode 0 is PASS !
+#  Pattern          19 at Mode 0 is PASS !
+#  Pattern          20 at Mode 0 is PASS !
+#  Pattern          21 at Mode 0 is PASS !
+#  Pattern          22 at Mode 0 is PASS !
+#  Pattern          23 at Mode 0 is PASS !
+#  Pattern          24 at Mode 0 is PASS !
+#  Pattern          25 at Mode 0 is PASS !
+#  Pattern          26 at Mode 0 is PASS !
+#  Pattern          27 at Mode 0 is PASS !
+#  Pattern          28 at Mode 0 is PASS !
+#  Pattern          29 at Mode 0 is PASS !
+#  Pattern          30 at Mode 0 is PASS !
+#  Pattern          31 at Mode 0 is PASS !
+#  Pattern          32 at Mode 0 is PASS !
+#  Pattern          33 at Mode 0 is PASS !
+#  Pattern          34 at Mode 0 is PASS !
+#  Pattern          35 at Mode 0 is FAIL !. Expected candidate =   8, but the Response candidate =   7 !! 
+#  Pattern          36 at Mode 0 is PASS !
+#  Pattern          37 at Mode 0 is PASS !
+#  Pattern          38 at Mode 0 is FAIL !. Expected candidate =   6, but the Response candidate =   5 !! 
+#  Pattern          39 at Mode 0 is PASS !
+#  Pattern          40 at Mode 0 is PASS !
+#  Pattern          41 at Mode 0 is PASS !
+#  Pattern          42 at Mode 0 is PASS !
+#  Pattern          43 at Mode 0 is PASS !
+#  Pattern          44 at Mode 0 is PASS !
+#  Pattern          45 at Mode 0 is PASS !
+#  Pattern          46 at Mode 0 is PASS !
+#  Pattern          47 at Mode 0 is PASS !
+#  Pattern          48 at Mode 0 is FAIL !. Expected candidate =  11, but the Response candidate =  10 !! 
+#  Pattern          49 at Mode 0 is PASS !
+#  Pattern          50 at Mode 0 is PASS !
+#  Pattern          51 at Mode 0 is PASS !
+#  Pattern          52 at Mode 0 is FAIL !. Expected candidate =   9, but the Response candidate =   8 !! 
+#  Pattern          53 at Mode 0 is PASS !
+#  Pattern          54 at Mode 0 is PASS !
+#  Pattern          55 at Mode 0 is PASS !
+#  Pattern          56 at Mode 0 is PASS !
+#  Pattern          57 at Mode 0 is PASS !
+#  Pattern          58 at Mode 0 is PASS !
+#  Pattern          59 at Mode 0 is PASS !
+#  Pattern          60 at Mode 0 is PASS !
+#  Pattern          61 at Mode 0 is PASS !
+#  Pattern          62 at Mode 0 is PASS !
+#  Pattern          63 at Mode 0 is PASS !
+# --------------------------- Simulation FINISH !!---------------------------
+# ============================================================================
+# 
+#  (T_T) FAIL!! The simulation result is FAIL!!! there were           5 errors at all.
+# 
+# ============================================================================
+# ** Note: $finish    : C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v(131)
+#    Time: 166450 ns  Iteration: 0  Instance: /testfixture1
+# 1
+# Break in Module testfixture1 at C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v line 131
+# Compile of SET.v was successful.
+# Compile of testfixture.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.testfixture1
+# Loading work.SET
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpfile' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpvars' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+run -all
+# GetModuleFileName: тぃ﹚家舱
+# 
+# 
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpfile'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpvars'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+# --------------------------- [ Function 1. Simulation START !! ] ---------------------------
+#  Pattern           0 at Mode 0 is PASS !
+#  Pattern           1 at Mode 0 is PASS !
+#  Pattern           2 at Mode 0 is PASS !
+#  Pattern           3 at Mode 0 is PASS !
+#  Pattern           4 at Mode 0 is PASS !
+#  Pattern           5 at Mode 0 is PASS !
+#  Pattern           6 at Mode 0 is FAIL !. Expected candidate =  20, but the Response candidate =  19 !! 
+#  Pattern           7 at Mode 0 is PASS !
+#  Pattern           8 at Mode 0 is PASS !
+#  Pattern           9 at Mode 0 is PASS !
+#  Pattern          10 at Mode 0 is PASS !
+#  Pattern          11 at Mode 0 is PASS !
+#  Pattern          12 at Mode 0 is PASS !
+#  Pattern          13 at Mode 0 is PASS !
+#  Pattern          14 at Mode 0 is PASS !
+#  Pattern          15 at Mode 0 is PASS !
+#  Pattern          16 at Mode 0 is PASS !
+#  Pattern          17 at Mode 0 is PASS !
+#  Pattern          18 at Mode 0 is PASS !
+#  Pattern          19 at Mode 0 is PASS !
+#  Pattern          20 at Mode 0 is PASS !
+#  Pattern          21 at Mode 0 is PASS !
+#  Pattern          22 at Mode 0 is PASS !
+#  Pattern          23 at Mode 0 is PASS !
+#  Pattern          24 at Mode 0 is PASS !
+#  Pattern          25 at Mode 0 is PASS !
+#  Pattern          26 at Mode 0 is PASS !
+#  Pattern          27 at Mode 0 is PASS !
+#  Pattern          28 at Mode 0 is PASS !
+#  Pattern          29 at Mode 0 is PASS !
+#  Pattern          30 at Mode 0 is PASS !
+#  Pattern          31 at Mode 0 is PASS !
+#  Pattern          32 at Mode 0 is PASS !
+#  Pattern          33 at Mode 0 is PASS !
+#  Pattern          34 at Mode 0 is PASS !
+#  Pattern          35 at Mode 0 is FAIL !. Expected candidate =   8, but the Response candidate =   7 !! 
+#  Pattern          36 at Mode 0 is PASS !
+#  Pattern          37 at Mode 0 is PASS !
+#  Pattern          38 at Mode 0 is FAIL !. Expected candidate =   6, but the Response candidate =   5 !! 
+#  Pattern          39 at Mode 0 is PASS !
+#  Pattern          40 at Mode 0 is PASS !
+#  Pattern          41 at Mode 0 is PASS !
+#  Pattern          42 at Mode 0 is PASS !
+#  Pattern          43 at Mode 0 is PASS !
+#  Pattern          44 at Mode 0 is PASS !
+#  Pattern          45 at Mode 0 is PASS !
+#  Pattern          46 at Mode 0 is PASS !
+#  Pattern          47 at Mode 0 is PASS !
+#  Pattern          48 at Mode 0 is FAIL !. Expected candidate =  11, but the Response candidate =  10 !! 
+#  Pattern          49 at Mode 0 is PASS !
+#  Pattern          50 at Mode 0 is PASS !
+#  Pattern          51 at Mode 0 is PASS !
+#  Pattern          52 at Mode 0 is FAIL !. Expected candidate =   9, but the Response candidate =   8 !! 
+#  Pattern          53 at Mode 0 is PASS !
+#  Pattern          54 at Mode 0 is PASS !
+#  Pattern          55 at Mode 0 is PASS !
+#  Pattern          56 at Mode 0 is PASS !
+#  Pattern          57 at Mode 0 is PASS !
+#  Pattern          58 at Mode 0 is PASS !
+#  Pattern          59 at Mode 0 is PASS !
+#  Pattern          60 at Mode 0 is PASS !
+#  Pattern          61 at Mode 0 is PASS !
+#  Pattern          62 at Mode 0 is PASS !
+#  Pattern          63 at Mode 0 is PASS !
+# --------------------------- Simulation FINISH !!---------------------------
+# ============================================================================
+# 
+#  (T_T) FAIL!! The simulation result is FAIL!!! there were           5 errors at all.
+# 
+# ============================================================================
+# ** Note: $finish    : C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v(131)
+#    Time: 167090 ns  Iteration: 0  Instance: /testfixture1
+# 1
+# Break in Module testfixture1 at C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v line 131
+# Compile of SET.v was successful.
+# Compile of testfixture.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.testfixture1
+# Loading work.SET
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpfile' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpvars' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+run -all
+# GetModuleFileName: тぃ﹚家舱
+# 
+# 
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpfile'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpvars'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+# --------------------------- [ Function 1. Simulation START !! ] ---------------------------
+#  Pattern           0 at Mode 0 is PASS !
+#  Pattern           1 at Mode 0 is PASS !
+#  Pattern           2 at Mode 0 is PASS !
+#  Pattern           3 at Mode 0 is PASS !
+#  Pattern           4 at Mode 0 is PASS !
+#  Pattern           5 at Mode 0 is PASS !
+#  Pattern           6 at Mode 0 is FAIL !. Expected candidate =  20, but the Response candidate =  19 !! 
+#  Pattern           7 at Mode 0 is PASS !
+#  Pattern           8 at Mode 0 is PASS !
+#  Pattern           9 at Mode 0 is PASS !
+#  Pattern          10 at Mode 0 is PASS !
+#  Pattern          11 at Mode 0 is PASS !
+#  Pattern          12 at Mode 0 is PASS !
+#  Pattern          13 at Mode 0 is PASS !
+#  Pattern          14 at Mode 0 is PASS !
+#  Pattern          15 at Mode 0 is PASS !
+#  Pattern          16 at Mode 0 is PASS !
+#  Pattern          17 at Mode 0 is PASS !
+#  Pattern          18 at Mode 0 is PASS !
+#  Pattern          19 at Mode 0 is PASS !
+#  Pattern          20 at Mode 0 is PASS !
+#  Pattern          21 at Mode 0 is PASS !
+#  Pattern          22 at Mode 0 is PASS !
+#  Pattern          23 at Mode 0 is PASS !
+#  Pattern          24 at Mode 0 is PASS !
+#  Pattern          25 at Mode 0 is PASS !
+#  Pattern          26 at Mode 0 is PASS !
+#  Pattern          27 at Mode 0 is PASS !
+#  Pattern          28 at Mode 0 is PASS !
+#  Pattern          29 at Mode 0 is PASS !
+#  Pattern          30 at Mode 0 is PASS !
+#  Pattern          31 at Mode 0 is PASS !
+#  Pattern          32 at Mode 0 is PASS !
+#  Pattern          33 at Mode 0 is PASS !
+#  Pattern          34 at Mode 0 is PASS !
+#  Pattern          35 at Mode 0 is FAIL !. Expected candidate =   8, but the Response candidate =   7 !! 
+#  Pattern          36 at Mode 0 is PASS !
+#  Pattern          37 at Mode 0 is PASS !
+#  Pattern          38 at Mode 0 is FAIL !. Expected candidate =   6, but the Response candidate =   5 !! 
+#  Pattern          39 at Mode 0 is PASS !
+#  Pattern          40 at Mode 0 is PASS !
+#  Pattern          41 at Mode 0 is PASS !
+#  Pattern          42 at Mode 0 is PASS !
+#  Pattern          43 at Mode 0 is PASS !
+#  Pattern          44 at Mode 0 is PASS !
+#  Pattern          45 at Mode 0 is PASS !
+#  Pattern          46 at Mode 0 is PASS !
+#  Pattern          47 at Mode 0 is PASS !
+#  Pattern          48 at Mode 0 is FAIL !. Expected candidate =  11, but the Response candidate =  10 !! 
+#  Pattern          49 at Mode 0 is PASS !
+#  Pattern          50 at Mode 0 is PASS !
+#  Pattern          51 at Mode 0 is PASS !
+#  Pattern          52 at Mode 0 is FAIL !. Expected candidate =   9, but the Response candidate =   8 !! 
+#  Pattern          53 at Mode 0 is PASS !
+#  Pattern          54 at Mode 0 is PASS !
+#  Pattern          55 at Mode 0 is PASS !
+#  Pattern          56 at Mode 0 is PASS !
+#  Pattern          57 at Mode 0 is PASS !
+#  Pattern          58 at Mode 0 is PASS !
+#  Pattern          59 at Mode 0 is PASS !
+#  Pattern          60 at Mode 0 is PASS !
+#  Pattern          61 at Mode 0 is PASS !
+#  Pattern          62 at Mode 0 is PASS !
+#  Pattern          63 at Mode 0 is PASS !
+# --------------------------- Simulation FINISH !!---------------------------
+# ============================================================================
+# 
+#  (T_T) FAIL!! The simulation result is FAIL!!! there were           5 errors at all.
+# 
+# ============================================================================
+# ** Note: $finish    : C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v(131)
+#    Time: 167090 ns  Iteration: 0  Instance: /testfixture1
+# 1
+# Break in Module testfixture1 at C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v line 131
+# Compile of SET.v was successful.
+# Compile of testfixture.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.testfixture1
+# Loading work.SET
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpfile' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpvars' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+run -all
+# GetModuleFileName: тぃ﹚家舱
+# 
+# 
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpfile'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpvars'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+# --------------------------- [ Function 1. Simulation START !! ] ---------------------------
+#  Pattern           0 at Mode 0 is PASS !
+#  Pattern           1 at Mode 0 is PASS !
+#  Pattern           2 at Mode 0 is PASS !
+#  Pattern           3 at Mode 0 is PASS !
+#  Pattern           4 at Mode 0 is PASS !
+#  Pattern           5 at Mode 0 is PASS !
+#  Pattern           6 at Mode 0 is PASS !
+#  Pattern           7 at Mode 0 is PASS !
+#  Pattern           8 at Mode 0 is PASS !
+#  Pattern           9 at Mode 0 is PASS !
+#  Pattern          10 at Mode 0 is PASS !
+#  Pattern          11 at Mode 0 is PASS !
+#  Pattern          12 at Mode 0 is PASS !
+#  Pattern          13 at Mode 0 is PASS !
+#  Pattern          14 at Mode 0 is PASS !
+#  Pattern          15 at Mode 0 is PASS !
+#  Pattern          16 at Mode 0 is PASS !
+#  Pattern          17 at Mode 0 is PASS !
+#  Pattern          18 at Mode 0 is PASS !
+#  Pattern          19 at Mode 0 is PASS !
+#  Pattern          20 at Mode 0 is PASS !
+#  Pattern          21 at Mode 0 is PASS !
+#  Pattern          22 at Mode 0 is PASS !
+#  Pattern          23 at Mode 0 is PASS !
+#  Pattern          24 at Mode 0 is PASS !
+#  Pattern          25 at Mode 0 is PASS !
+#  Pattern          26 at Mode 0 is PASS !
+#  Pattern          27 at Mode 0 is PASS !
+#  Pattern          28 at Mode 0 is PASS !
+#  Pattern          29 at Mode 0 is PASS !
+#  Pattern          30 at Mode 0 is PASS !
+#  Pattern          31 at Mode 0 is PASS !
+#  Pattern          32 at Mode 0 is PASS !
+#  Pattern          33 at Mode 0 is PASS !
+#  Pattern          34 at Mode 0 is PASS !
+#  Pattern          35 at Mode 0 is PASS !
+#  Pattern          36 at Mode 0 is PASS !
+#  Pattern          37 at Mode 0 is PASS !
+#  Pattern          38 at Mode 0 is PASS !
+#  Pattern          39 at Mode 0 is PASS !
+#  Pattern          40 at Mode 0 is PASS !
+#  Pattern          41 at Mode 0 is PASS !
+#  Pattern          42 at Mode 0 is PASS !
+#  Pattern          43 at Mode 0 is PASS !
+#  Pattern          44 at Mode 0 is PASS !
+#  Pattern          45 at Mode 0 is PASS !
+#  Pattern          46 at Mode 0 is PASS !
+#  Pattern          47 at Mode 0 is PASS !
+#  Pattern          48 at Mode 0 is PASS !
+#  Pattern          49 at Mode 0 is PASS !
+#  Pattern          50 at Mode 0 is PASS !
+#  Pattern          51 at Mode 0 is PASS !
+#  Pattern          52 at Mode 0 is PASS !
+#  Pattern          53 at Mode 0 is PASS !
+#  Pattern          54 at Mode 0 is PASS !
+#  Pattern          55 at Mode 0 is PASS !
+#  Pattern          56 at Mode 0 is PASS !
+#  Pattern          57 at Mode 0 is PASS !
+#  Pattern          58 at Mode 0 is PASS !
+#  Pattern          59 at Mode 0 is PASS !
+#  Pattern          60 at Mode 0 is PASS !
+#  Pattern          61 at Mode 0 is PASS !
+#  Pattern          62 at Mode 0 is PASS !
+#  Pattern          63 at Mode 0 is PASS !
+# --------------------------- Simulation FINISH !!---------------------------
+# ============================================================================
+# 
+#  \(^o^)/ CONGRATULATIONS!!  The simulation result is PASS!!!
+# 
+# ============================================================================
+# ** Note: $finish    : C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v(131)
+#    Time: 167090 ns  Iteration: 0  Instance: /testfixture1
+# 1
+# Break in Module testfixture1 at C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v line 131
+# Compile of SET.v was successful.
+# Compile of testfixture.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of SET.v was successful.
+# Compile of testfixture.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.testfixture1
+# Loading work.SET
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpfile' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpvars' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+run -all
+# GetModuleFileName: тぃ﹚家舱
+# 
+# 
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpfile'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpvars'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+# --------------------------- [ Function 2. Simulation START !! ] ---------------------------
+#  Pattern           0 at Mode 1 is PASS !
+#  Pattern           1 at Mode 1 is PASS !
+#  Pattern           2 at Mode 1 is PASS !
+#  Pattern           3 at Mode 1 is PASS !
+#  Pattern           4 at Mode 1 is PASS !
+#  Pattern           5 at Mode 1 is PASS !
+#  Pattern           6 at Mode 1 is PASS !
+#  Pattern           7 at Mode 1 is PASS !
+#  Pattern           8 at Mode 1 is PASS !
+#  Pattern           9 at Mode 1 is PASS !
+#  Pattern          10 at Mode 1 is PASS !
+#  Pattern          11 at Mode 1 is PASS !
+#  Pattern          12 at Mode 1 is PASS !
+#  Pattern          13 at Mode 1 is PASS !
+#  Pattern          14 at Mode 1 is PASS !
+#  Pattern          15 at Mode 1 is PASS !
+#  Pattern          16 at Mode 1 is PASS !
+#  Pattern          17 at Mode 1 is PASS !
+#  Pattern          18 at Mode 1 is PASS !
+#  Pattern          19 at Mode 1 is PASS !
+#  Pattern          20 at Mode 1 is PASS !
+#  Pattern          21 at Mode 1 is PASS !
+#  Pattern          22 at Mode 1 is PASS !
+#  Pattern          23 at Mode 1 is PASS !
+#  Pattern          24 at Mode 1 is PASS !
+#  Pattern          25 at Mode 1 is PASS !
+#  Pattern          26 at Mode 1 is PASS !
+#  Pattern          27 at Mode 1 is PASS !
+#  Pattern          28 at Mode 1 is PASS !
+#  Pattern          29 at Mode 1 is PASS !
+#  Pattern          30 at Mode 1 is PASS !
+#  Pattern          31 at Mode 1 is PASS !
+#  Pattern          32 at Mode 1 is PASS !
+#  Pattern          33 at Mode 1 is PASS !
+#  Pattern          34 at Mode 1 is PASS !
+#  Pattern          35 at Mode 1 is PASS !
+#  Pattern          36 at Mode 1 is PASS !
+#  Pattern          37 at Mode 1 is PASS !
+#  Pattern          38 at Mode 1 is PASS !
+#  Pattern          39 at Mode 1 is PASS !
+#  Pattern          40 at Mode 1 is PASS !
+#  Pattern          41 at Mode 1 is PASS !
+#  Pattern          42 at Mode 1 is PASS !
+#  Pattern          43 at Mode 1 is PASS !
+#  Pattern          44 at Mode 1 is PASS !
+#  Pattern          45 at Mode 1 is PASS !
+#  Pattern          46 at Mode 1 is PASS !
+#  Pattern          47 at Mode 1 is PASS !
+#  Pattern          48 at Mode 1 is PASS !
+#  Pattern          49 at Mode 1 is PASS !
+#  Pattern          50 at Mode 1 is PASS !
+#  Pattern          51 at Mode 1 is PASS !
+#  Pattern          52 at Mode 1 is PASS !
+#  Pattern          53 at Mode 1 is PASS !
+#  Pattern          54 at Mode 1 is PASS !
+#  Pattern          55 at Mode 1 is PASS !
+#  Pattern          56 at Mode 1 is PASS !
+#  Pattern          57 at Mode 1 is PASS !
+#  Pattern          58 at Mode 1 is PASS !
+#  Pattern          59 at Mode 1 is PASS !
+#  Pattern          60 at Mode 1 is PASS !
+#  Pattern          61 at Mode 1 is PASS !
+#  Pattern          62 at Mode 1 is PASS !
+#  Pattern          63 at Mode 1 is PASS !
+# --------------------------- Simulation FINISH !!---------------------------
+# ============================================================================
+# 
+#  \(^o^)/ CONGRATULATIONS!!  The simulation result is PASS!!!
+# 
+# ============================================================================
+# ** Note: $finish    : C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v(131)
+#    Time: 167090 ns  Iteration: 0  Instance: /testfixture1
+# 1
+# Break in Module testfixture1 at C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v line 131
+# Compile of SET.v was successful.
+# Compile of testfixture.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.testfixture1
+# End time: 23:45:31 on Jan 21,2024, Elapsed time: 0:13:54
+# Errors: 2, Warnings: 4
+# vsim -gui work.testfixture1 
+# Start time: 23:45:31 on Jan 21,2024
+# Loading work.testfixture1
+# Loading work.SET
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpfile' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpvars' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpfile' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpvars' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+run -all
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpfile'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpvars'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+# --------------------------- [ Function 2. Simulation START !! ] ---------------------------
+#  Pattern           0 at Mode 1 is PASS !
+#  Pattern           1 at Mode 1 is PASS !
+#  Pattern           2 at Mode 1 is PASS !
+#  Pattern           3 at Mode 1 is PASS !
+#  Pattern           4 at Mode 1 is PASS !
+#  Pattern           5 at Mode 1 is PASS !
+#  Pattern           6 at Mode 1 is PASS !
+#  Pattern           7 at Mode 1 is PASS !
+#  Pattern           8 at Mode 1 is PASS !
+#  Pattern           9 at Mode 1 is PASS !
+#  Pattern          10 at Mode 1 is PASS !
+#  Pattern          11 at Mode 1 is PASS !
+#  Pattern          12 at Mode 1 is PASS !
+#  Pattern          13 at Mode 1 is PASS !
+#  Pattern          14 at Mode 1 is PASS !
+#  Pattern          15 at Mode 1 is PASS !
+#  Pattern          16 at Mode 1 is PASS !
+#  Pattern          17 at Mode 1 is PASS !
+#  Pattern          18 at Mode 1 is PASS !
+#  Pattern          19 at Mode 1 is PASS !
+#  Pattern          20 at Mode 1 is PASS !
+#  Pattern          21 at Mode 1 is PASS !
+#  Pattern          22 at Mode 1 is PASS !
+#  Pattern          23 at Mode 1 is PASS !
+#  Pattern          24 at Mode 1 is PASS !
+#  Pattern          25 at Mode 1 is PASS !
+#  Pattern          26 at Mode 1 is PASS !
+#  Pattern          27 at Mode 1 is PASS !
+#  Pattern          28 at Mode 1 is PASS !
+#  Pattern          29 at Mode 1 is PASS !
+#  Pattern          30 at Mode 1 is PASS !
+#  Pattern          31 at Mode 1 is PASS !
+#  Pattern          32 at Mode 1 is PASS !
+#  Pattern          33 at Mode 1 is PASS !
+#  Pattern          34 at Mode 1 is PASS !
+#  Pattern          35 at Mode 1 is PASS !
+#  Pattern          36 at Mode 1 is PASS !
+#  Pattern          37 at Mode 1 is PASS !
+#  Pattern          38 at Mode 1 is PASS !
+#  Pattern          39 at Mode 1 is PASS !
+#  Pattern          40 at Mode 1 is PASS !
+#  Pattern          41 at Mode 1 is PASS !
+#  Pattern          42 at Mode 1 is PASS !
+#  Pattern          43 at Mode 1 is PASS !
+#  Pattern          44 at Mode 1 is PASS !
+#  Pattern          45 at Mode 1 is PASS !
+#  Pattern          46 at Mode 1 is PASS !
+#  Pattern          47 at Mode 1 is PASS !
+#  Pattern          48 at Mode 1 is PASS !
+#  Pattern          49 at Mode 1 is PASS !
+#  Pattern          50 at Mode 1 is PASS !
+#  Pattern          51 at Mode 1 is PASS !
+#  Pattern          52 at Mode 1 is PASS !
+#  Pattern          53 at Mode 1 is PASS !
+#  Pattern          54 at Mode 1 is PASS !
+#  Pattern          55 at Mode 1 is PASS !
+#  Pattern          56 at Mode 1 is PASS !
+#  Pattern          57 at Mode 1 is PASS !
+#  Pattern          58 at Mode 1 is PASS !
+#  Pattern          59 at Mode 1 is PASS !
+#  Pattern          60 at Mode 1 is PASS !
+#  Pattern          61 at Mode 1 is PASS !
+#  Pattern          62 at Mode 1 is PASS !
+#  Pattern          63 at Mode 1 is PASS !
+# --------------------------- Simulation FINISH !!---------------------------
+# ============================================================================
+# 
+#  \(^o^)/ CONGRATULATIONS!!  The simulation result is PASS!!!
+# 
+# ============================================================================
+# ** Note: $finish    : C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v(131)
+#    Time: 167090 ns  Iteration: 0  Instance: /testfixture1
+# 1
+# Break in Module testfixture1 at C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v line 131
+# Compile of SET.v was successful.
+# Compile of testfixture.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.testfixture1
+# Loading work.SET
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpfile' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpvars' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+run -all
+# GetModuleFileName: тぃ﹚家舱
+# 
+# 
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpfile'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpvars'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+# --------------------------- [ Function 3. Simulation START !! ] ---------------------------
+#  Pattern           0 at Mode 2 is PASS !
+#  Pattern           1 at Mode 2 is PASS !
+#  Pattern           2 at Mode 2 is PASS !
+#  Pattern           3 at Mode 2 is PASS !
+#  Pattern           4 at Mode 2 is PASS !
+#  Pattern           5 at Mode 2 is PASS !
+#  Pattern           6 at Mode 2 is PASS !
+#  Pattern           7 at Mode 2 is PASS !
+#  Pattern           8 at Mode 2 is PASS !
+#  Pattern           9 at Mode 2 is PASS !
+#  Pattern          10 at Mode 2 is PASS !
+#  Pattern          11 at Mode 2 is PASS !
+#  Pattern          12 at Mode 2 is PASS !
+#  Pattern          13 at Mode 2 is PASS !
+#  Pattern          14 at Mode 2 is PASS !
+#  Pattern          15 at Mode 2 is PASS !
+#  Pattern          16 at Mode 2 is PASS !
+#  Pattern          17 at Mode 2 is PASS !
+#  Pattern          18 at Mode 2 is PASS !
+#  Pattern          19 at Mode 2 is PASS !
+#  Pattern          20 at Mode 2 is PASS !
+#  Pattern          21 at Mode 2 is PASS !
+#  Pattern          22 at Mode 2 is PASS !
+#  Pattern          23 at Mode 2 is PASS !
+#  Pattern          24 at Mode 2 is PASS !
+#  Pattern          25 at Mode 2 is PASS !
+#  Pattern          26 at Mode 2 is PASS !
+#  Pattern          27 at Mode 2 is PASS !
+#  Pattern          28 at Mode 2 is PASS !
+#  Pattern          29 at Mode 2 is PASS !
+#  Pattern          30 at Mode 2 is PASS !
+#  Pattern          31 at Mode 2 is PASS !
+#  Pattern          32 at Mode 2 is PASS !
+#  Pattern          33 at Mode 2 is PASS !
+#  Pattern          34 at Mode 2 is PASS !
+#  Pattern          35 at Mode 2 is PASS !
+#  Pattern          36 at Mode 2 is PASS !
+#  Pattern          37 at Mode 2 is PASS !
+#  Pattern          38 at Mode 2 is PASS !
+#  Pattern          39 at Mode 2 is PASS !
+#  Pattern          40 at Mode 2 is PASS !
+#  Pattern          41 at Mode 2 is PASS !
+#  Pattern          42 at Mode 2 is PASS !
+#  Pattern          43 at Mode 2 is PASS !
+#  Pattern          44 at Mode 2 is PASS !
+#  Pattern          45 at Mode 2 is PASS !
+#  Pattern          46 at Mode 2 is PASS !
+#  Pattern          47 at Mode 2 is PASS !
+#  Pattern          48 at Mode 2 is PASS !
+#  Pattern          49 at Mode 2 is PASS !
+#  Pattern          50 at Mode 2 is PASS !
+#  Pattern          51 at Mode 2 is PASS !
+#  Pattern          52 at Mode 2 is PASS !
+#  Pattern          53 at Mode 2 is PASS !
+#  Pattern          54 at Mode 2 is PASS !
+#  Pattern          55 at Mode 2 is PASS !
+#  Pattern          56 at Mode 2 is PASS !
+#  Pattern          57 at Mode 2 is PASS !
+#  Pattern          58 at Mode 2 is PASS !
+#  Pattern          59 at Mode 2 is PASS !
+#  Pattern          60 at Mode 2 is PASS !
+#  Pattern          61 at Mode 2 is PASS !
+#  Pattern          62 at Mode 2 is PASS !
+#  Pattern          63 at Mode 2 is PASS !
+# --------------------------- Simulation FINISH !!---------------------------
+# ============================================================================
+# 
+#  \(^o^)/ CONGRATULATIONS!!  The simulation result is PASS!!!
+# 
+# ============================================================================
+# ** Note: $finish    : C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v(131)
+#    Time: 167090 ns  Iteration: 0  Instance: /testfixture1
+# 1
+# Break in Module testfixture1 at C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v line 131
+# Compile of SET.v was successful.
+# Compile of testfixture.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.testfixture1
+# Loading work.SET
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpfile' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$fsdbDumpvars' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /testfixture1 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+run -all
+# GetModuleFileName: тぃ﹚家舱
+# 
+# 
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpfile'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 37
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$fsdbDumpvars'
+#    Time: 0 ps  Iteration: 0  Process: /testfixture1/#INITIAL#36 File: C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v Line: 38
+# --------------------------- [ Function 4. Simulation START !! ] ---------------------------
+#  Pattern           0 at Mode 3 is PASS !
+#  Pattern           1 at Mode 3 is PASS !
+#  Pattern           2 at Mode 3 is PASS !
+#  Pattern           3 at Mode 3 is PASS !
+#  Pattern           4 at Mode 3 is PASS !
+#  Pattern           5 at Mode 3 is PASS !
+#  Pattern           6 at Mode 3 is PASS !
+#  Pattern           7 at Mode 3 is PASS !
+#  Pattern           8 at Mode 3 is PASS !
+#  Pattern           9 at Mode 3 is PASS !
+#  Pattern          10 at Mode 3 is PASS !
+#  Pattern          11 at Mode 3 is PASS !
+#  Pattern          12 at Mode 3 is PASS !
+#  Pattern          13 at Mode 3 is PASS !
+#  Pattern          14 at Mode 3 is PASS !
+#  Pattern          15 at Mode 3 is PASS !
+#  Pattern          16 at Mode 3 is PASS !
+#  Pattern          17 at Mode 3 is PASS !
+#  Pattern          18 at Mode 3 is PASS !
+#  Pattern          19 at Mode 3 is PASS !
+#  Pattern          20 at Mode 3 is PASS !
+#  Pattern          21 at Mode 3 is PASS !
+#  Pattern          22 at Mode 3 is PASS !
+#  Pattern          23 at Mode 3 is PASS !
+#  Pattern          24 at Mode 3 is PASS !
+#  Pattern          25 at Mode 3 is PASS !
+#  Pattern          26 at Mode 3 is PASS !
+#  Pattern          27 at Mode 3 is PASS !
+#  Pattern          28 at Mode 3 is PASS !
+#  Pattern          29 at Mode 3 is PASS !
+#  Pattern          30 at Mode 3 is PASS !
+#  Pattern          31 at Mode 3 is PASS !
+#  Pattern          32 at Mode 3 is PASS !
+#  Pattern          33 at Mode 3 is PASS !
+#  Pattern          34 at Mode 3 is PASS !
+#  Pattern          35 at Mode 3 is PASS !
+#  Pattern          36 at Mode 3 is PASS !
+#  Pattern          37 at Mode 3 is PASS !
+#  Pattern          38 at Mode 3 is PASS !
+#  Pattern          39 at Mode 3 is PASS !
+#  Pattern          40 at Mode 3 is PASS !
+#  Pattern          41 at Mode 3 is PASS !
+#  Pattern          42 at Mode 3 is PASS !
+#  Pattern          43 at Mode 3 is PASS !
+#  Pattern          44 at Mode 3 is PASS !
+#  Pattern          45 at Mode 3 is PASS !
+#  Pattern          46 at Mode 3 is PASS !
+#  Pattern          47 at Mode 3 is PASS !
+#  Pattern          48 at Mode 3 is PASS !
+#  Pattern          49 at Mode 3 is PASS !
+#  Pattern          50 at Mode 3 is PASS !
+#  Pattern          51 at Mode 3 is PASS !
+#  Pattern          52 at Mode 3 is PASS !
+#  Pattern          53 at Mode 3 is PASS !
+#  Pattern          54 at Mode 3 is PASS !
+#  Pattern          55 at Mode 3 is PASS !
+#  Pattern          56 at Mode 3 is PASS !
+#  Pattern          57 at Mode 3 is PASS !
+#  Pattern          58 at Mode 3 is PASS !
+#  Pattern          59 at Mode 3 is PASS !
+#  Pattern          60 at Mode 3 is PASS !
+#  Pattern          61 at Mode 3 is PASS !
+#  Pattern          62 at Mode 3 is PASS !
+#  Pattern          63 at Mode 3 is PASS !
+# --------------------------- Simulation FINISH !!---------------------------
+# ============================================================================
+# 
+#  \(^o^)/ CONGRATULATIONS!!  The simulation result is PASS!!!
+# 
+# ============================================================================
+# ** Note: $finish    : C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v(131)
+#    Time: 167090 ns  Iteration: 0  Instance: /testfixture1
+# 1
+# Break in Module testfixture1 at C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v line 131
+# End time: 23:47:59 on Jan 21,2024, Elapsed time: 0:02:28
+# Errors: 2, Warnings: 3

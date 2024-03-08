@@ -1,0 +1,58 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/dat
+vSET
+Z1 !s110 1705843102
+!i10b 1
+!s100 3K2L<NJ8^o6=kDjQBzOcn3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ili=NaEP7>QIJTbLiaVhXb1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1705843099
+8C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/SET.v
+FC:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/SET.v
+!i122 9
+L0 1 156
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1705843102.000000
+!s107 C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/SET.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/SET.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@s@e@t
+vtestfixture1
+R1
+!i10b 1
+!s100 `XonBkCHczNLaaE=KJjC93
+R2
+IT[k<dOWK`N1F@MP`19DE]2
+R3
+R0
+w1424846583
+8C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v
+FC:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v
+!i122 10
+L0 7 148
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/verilog/20240121_set/B_ICC2015_preliminary_grad_cell-based/testbench/testfixture.v|
+!i113 1
+R6
+R7
